@@ -1,0 +1,1564 @@
+year,state_name,,district_name,season,crop_name,crop_type,area,production
+ 1998-99,Telangana,,Adilabad,Kharif     ,Arhar/Tur,Pulses,35900,12700
+ 1998-99,Telangana,,Adilabad,Rabi       ,Arhar/Tur,Pulses,100,100
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Arhar/Tur,Pulses,27400,9100
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Arhar/Tur,Pulses,6100,1000
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Arhar/Tur,Pulses,2100,300
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Arhar/Tur,Pulses,27100,20700
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Arhar/Tur,Pulses,200,200
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Arhar/Tur,Pulses,7600,4400
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Arhar/Tur,Pulses,5400,2000
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Arhar/Tur,Pulses,300,100
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Arhar/Tur,Pulses,23200,11600
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Arhar/Tur,Pulses,500,200
+ 1998-99,Andhra Pradesh,,Krishna,Kharif     ,Arhar/Tur,Pulses,8800,5000
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Arhar/Tur,Pulses,100,100
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Arhar/Tur,Pulses,26400,10000
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Arhar/Tur,Pulses,600,200
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Arhar/Tur,Pulses,49400,12000
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Arhar/Tur,Pulses,18000,6300
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Arhar/Tur,Pulses,26400,11900
+ 1998-99,Andhra Pradesh,,West Godavari,Kharif     ,Arhar/Tur,Pulses,200,200
+ 1998-99,Telangana,,Adilabad,Rabi       ,Bajra,Cereals,300,100
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Bajra,Cereals,2600,1900
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Bajra,Cereals,1700,3400
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Bajra,Cereals,4300,2400
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Bajra,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Bajra,Cereals,200,200
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Bajra,Cereals,3000,6000
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Bajra,Cereals,500,900
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Bajra,Cereals,600,300
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Bajra,Cereals,600,300
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Bajra,Cereals,17700,16200
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Bajra,Cereals,300,300
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Bajra,Cereals,14500,5500
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Bajra,Cereals,1700,800
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Bajra,Cereals,19200,10300
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Bajra,Cereals,5000,2300
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Bajra,Cereals,17200,23800
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Bajra,Cereals,400,500
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Bajra,Cereals,1400,700
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Bajra,Cereals,2300,4200
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Bajra,Cereals,4100,4600
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Bajra,Cereals,25000,28700
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Bajra,Cereals,4100,5400
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Bajra,Cereals,500,200
+ 1998-99,Telangana,,Adilabad,Kharif     ,Castor Seed,Oilseeds,2100,400
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Castor Seed,Oilseeds,3200,1000
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Castor Seed,Oilseeds,200,100
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Castor Seed,Oilseeds,1400,200
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Castor Seed,Oilseeds,1000,300
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Castor Seed,Oilseeds,400,100
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Castor Seed,Oilseeds,800,300
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Castor Seed,Oilseeds,101700,20300
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Castor Seed,Oilseeds,1700,400
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Castor Seed,Oilseeds,66300,16200
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Castor Seed,Oilseeds,200,100
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Castor Seed,Oilseeds,8700,3000
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Castor Seed,Oilseeds,10500,1900
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Castor Seed,Oilseeds,100,1900
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Castor Seed,Oilseeds,5400,1200
+ 1998-99,Telangana,,Adilabad,Kharif     ,Cotton(Lint),Fiber Crops,162100,154400
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Cotton(Lint),Fiber Crops,14000,12900
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Cotton(Lint),Fiber Crops,7900,6300
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Cotton(Lint),Fiber Crops,193600,120700
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Cotton(Lint),Fiber Crops,24800,22900
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Cotton(Lint),Fiber Crops,84300,195800
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Cotton(Lint),Fiber Crops,88100,143100
+ 1998-99,Andhra Pradesh,,Krishna,Kharif     ,Cotton(Lint),Fiber Crops,41300,32500
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Cotton(Lint),Fiber Crops,153700,142000
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Cotton(Lint),Fiber Crops,93600,77100
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Cotton(Lint),Fiber Crops,22600,32300
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Cotton(Lint),Fiber Crops,112700,128600
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Cotton(Lint),Fiber Crops,20000,28500
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Cotton(Lint),Fiber Crops,62800,82400
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Dry Chillies,Spices,400,900
+ 1998-99,Telangana,,Hyderabad,Kharif     ,Dry Chillies,Spices,1500,3100
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Dry Chillies,Spices,4700,7200
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Dry Chillies,Spices,300,500
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Dry Chillies,Spices,10000,18100
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Dry Chillies,Spices,2000,4600
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Dry Chillies,Spices,13000,45500
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Dry Chillies,Spices,7700,16300
+ 1998-99,Andhra Pradesh,,Krishna,Kharif     ,Dry Chillies,Spices,9500,34600
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Dry Chillies,Spices,2700,5700
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Dry Chillies,Spices,10300,12000
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Dry Chillies,Spices,500,600
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Dry Chillies,Spices,9500,11800
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Dry Chillies,Spices,2100,4800
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Dry Chillies,Spices,8800,6000
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Dry Chillies,Spices,1200,2800
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Dry Chillies,Spices,7900,31100
+ 1998-99,Andhra Pradesh,,Nalgonda,Rabi       ,Dry Chillies,Spices,1900,4400
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Dry Chillies,Spices,1300,3100
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Dry Chillies,Spices,14400,24900
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Dry Chillies,Spices,4500,10700
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Dry Chillies,Spices,2300,2000
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Dry Chillies,Spices,600,1500
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Dry Chillies,Spices,200,800
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Dry Chillies,Spices,3100,8500
+ 1998-99,Andhra Pradesh,,Srikakulam,Rabi       ,Dry Chillies,Spices,3500,7300
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Dry Chillies,Spices,1300,4100
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Dry Chillies,Spices,4300,6600
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Dry Chillies,Spices,300,900
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Dry Chillies,Spices,3100,6500
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Dry Chillies,Spices,19500,44700
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Dry Chillies,Spices,11100,26800
+ 1998-99,Andhra Pradesh,,West Godavari,Rabi       ,Dry Chillies,Spices,5700,10700
+ 1998-99,Telangana,,Adilabad,Rabi       ,Gram,Pulses,2900,400
+ 1998-99,Andhra Pradesh,,Anantapur,Rabi       ,Gram,Pulses,26200,25900
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Gram,Pulses,1400,2700
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Gram,Pulses,100,100
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Gram,Pulses,17400,26600
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Gram,Pulses,700,100
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Gram,Pulses,100,100
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Gram,Pulses,54400,44500
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Gram,Pulses,2900,400
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Gram,Pulses,17600,2100
+ 1998-99,Andhra Pradesh,,Nalgonda,Rabi       ,Gram,Pulses,400,100
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Gram,Pulses,2600,300
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Gram,Pulses,13000,25400
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Gram,Pulses,5600,700
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Gram,Pulses,100,300
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Gram,Pulses,100,300
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Gram,Pulses,400,300
+ 1998-99,Telangana,,Adilabad,Kharif     ,Groundnut,Oilseeds,100,100
+ 1998-99,Telangana,,Adilabad,Rabi       ,Groundnut,Oilseeds,5300,6900
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Groundnut,Oilseeds,755200,867800
+ 1998-99,Andhra Pradesh,,Anantapur,Rabi       ,Groundnut,Oilseeds,25900,35800
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Groundnut,Oilseeds,235500,211000
+ 1998-99,Andhra Pradesh,,Chittoor,Rabi       ,Groundnut,Oilseeds,31100,83800
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Groundnut,Oilseeds,800,900
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Groundnut,Oilseeds,1500,2500
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Groundnut,Oilseeds,300,400
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Groundnut,Oilseeds,5900,9300
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Groundnut,Oilseeds,132300,109500
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Groundnut,Oilseeds,32000,59000
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Groundnut,Oilseeds,9300,3700
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Groundnut,Oilseeds,19900,29000
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Groundnut,Oilseeds,1700,1000
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Groundnut,Oilseeds,12100,15700
+ 1998-99,Andhra Pradesh,,Krishna,Kharif     ,Groundnut,Oilseeds,4000,3300
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Groundnut,Oilseeds,9100,15100
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Groundnut,Oilseeds,209100,139000
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Groundnut,Oilseeds,40100,83100
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Groundnut,Oilseeds,85800,48800
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Groundnut,Oilseeds,44600,50000
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Groundnut,Oilseeds,2100,2000
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Groundnut,Oilseeds,7700,9900
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Groundnut,Oilseeds,37200,25300
+ 1998-99,Andhra Pradesh,,Nalgonda,Rabi       ,Groundnut,Oilseeds,16800,17100
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Groundnut,Oilseeds,300,400
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Groundnut,Oilseeds,14500,33800
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Groundnut,Oilseeds,6900,5300
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Groundnut,Oilseeds,12200,18400
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Groundnut,Oilseeds,1300,600
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Groundnut,Oilseeds,7300,9400
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Groundnut,Oilseeds,5300,8800
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Groundnut,Oilseeds,17300,43100
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Groundnut,Oilseeds,38200,36000
+ 1998-99,Andhra Pradesh,,Srikakulam,Rabi       ,Groundnut,Oilseeds,8200,9400
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Groundnut,Oilseeds,18100,21100
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Groundnut,Oilseeds,3700,6300
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Groundnut,Oilseeds,62300,56700
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Groundnut,Oilseeds,6500,6400
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Groundnut,Oilseeds,28100,28500
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Groundnut,Oilseeds,31300,34100
+ 1998-99,Andhra Pradesh,,West Godavari,Kharif     ,Groundnut,Oilseeds,700,400
+ 1998-99,Andhra Pradesh,,West Godavari,Rabi       ,Groundnut,Oilseeds,4300,6400
+ 1998-99,Telangana,,Adilabad,Rabi       ,Horse-Gram,Pulses,3200,600
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Horse-Gram,Pulses,2300,900
+ 1998-99,Andhra Pradesh,,Anantapur,Rabi       ,Horse-Gram,Pulses,700,500
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Horse-Gram,Pulses,3000,1700
+ 1998-99,Andhra Pradesh,,Chittoor,Rabi       ,Horse-Gram,Pulses,1100,800
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Horse-Gram,Pulses,200,100
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Horse-Gram,Pulses,2200,1200
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Horse-Gram,Pulses,300,100
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Horse-Gram,Pulses,400,200
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Horse-Gram,Pulses,1400,300
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Horse-Gram,Pulses,1000,400
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Horse-Gram,Pulses,1200,300
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Horse-Gram,Pulses,2300,1400
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Horse-Gram,Pulses,10300,3900
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Horse-Gram,Pulses,3100,700
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Horse-Gram,Pulses,500,200
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Horse-Gram,Pulses,1300,300
+ 1998-99,Andhra Pradesh,,Nalgonda,Rabi       ,Horse-Gram,Pulses,4600,900
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Horse-Gram,Pulses,100,900
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Horse-Gram,Pulses,1700,800
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Horse-Gram,Pulses,2000,700
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Horse-Gram,Pulses,400,100
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Horse-Gram,Pulses,800,300
+ 1998-99,Andhra Pradesh,,Srikakulam,Rabi       ,Horse-Gram,Pulses,19200,7300
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Horse-Gram,Pulses,500,300
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Horse-Gram,Pulses,7000,3800
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Horse-Gram,Pulses,37200,7100
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Horse-Gram,Pulses,2000,400
+ 1998-99,Andhra Pradesh,,West Godavari,Rabi       ,Horse-Gram,Pulses,1100,400
+ 1998-99,Telangana,,Adilabad,Kharif     ,Jowar,Cereals,49800,60400
+ 1998-99,Telangana,,Adilabad,Rabi       ,Jowar,Cereals,93500,40900
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Jowar,Cereals,3700,5800
+ 1998-99,Andhra Pradesh,,Anantapur,Rabi       ,Jowar,Cereals,14800,22100
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Jowar,Cereals,2500,1400
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Jowar,Cereals,1200,300
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Jowar,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Jowar,Cereals,600,200
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Jowar,Cereals,800,1000
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Jowar,Cereals,6700,5400
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Jowar,Cereals,1600,1800
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Jowar,Cereals,600,200
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Jowar,Cereals,3300,1900
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Jowar,Cereals,4400,3000
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Jowar,Cereals,21700,13900
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Jowar,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Jowar,Cereals,9400,9100
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Jowar,Cereals,90200,96300
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Jowar,Cereals,129800,77700
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Jowar,Cereals,43000,23800
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Jowar,Cereals,54800,35900
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Jowar,Cereals,46600,29400
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Jowar,Cereals,13600,5900
+ 1998-99,Andhra Pradesh,,Nalgonda,Rabi       ,Jowar,Cereals,16200,6300
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Jowar,Cereals,3400,2000
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Jowar,Cereals,22700,17600
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Jowar,Cereals,2400,700
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Jowar,Cereals,3100,4100
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Jowar,Cereals,67800,35700
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Jowar,Cereals,20000,7300
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Jowar,Cereals,200,100
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Jowar,Cereals,300,100
+ 1998-99,Andhra Pradesh,,Srikakulam,Rabi       ,Jowar,Cereals,300,100
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Jowar,Cereals,1800,500
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Jowar,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Jowar,Cereals,600,200
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Jowar,Cereals,3400,1700
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Jowar,Cereals,16800,9600
+ 1998-99,Andhra Pradesh,,West Godavari,Kharif     ,Jowar,Cereals,400,100
+ 1998-99,Andhra Pradesh,,West Godavari,Rabi       ,Jowar,Cereals,100,100
+ 1998-99,Telangana,,Adilabad,Kharif     ,Maize,Cereals,24900,59500
+ 1998-99,Telangana,,Adilabad,Rabi       ,Maize,Cereals,4400,18400
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Maize,Cereals,3300,6700
+ 1998-99,Andhra Pradesh,,Anantapur,Rabi       ,Maize,Cereals,300,1600
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Maize,Cereals,100,300
+ 1998-99,Andhra Pradesh,,Chittoor,Rabi       ,Maize,Cereals,100,300
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Maize,Cereals,1700,3600
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Maize,Cereals,3800,18700
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Maize,Cereals,2300,4700
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Maize,Cereals,2800,14100
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Maize,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Maize,Cereals,61000,210400
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Maize,Cereals,35500,159000
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Maize,Cereals,16200,37600
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Maize,Cereals,2300,9500
+ 1998-99,Andhra Pradesh,,Krishna,Kharif     ,Maize,Cereals,3000,6200
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Maize,Cereals,1700,8600
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Maize,Cereals,700,1400
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Maize,Cereals,100,400
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Maize,Cereals,20100,67200
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Maize,Cereals,500,2100
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Maize,Cereals,77700,270700
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Maize,Cereals,2400,10000
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Maize,Cereals,1700,5800
+ 1998-99,Andhra Pradesh,,Nalgonda,Rabi       ,Maize,Cereals,100,500
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Maize,Cereals,49500,206600
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Maize,Cereals,5800,18400
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Maize,Cereals,4500,13800
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Maize,Cereals,1200,5800
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Maize,Cereals,5700,13800
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Maize,Cereals,400,1700
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Maize,Cereals,100,200
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Maize,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Maize,Cereals,300,500
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Maize,Cereals,6400,8600
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Maize,Cereals,300,1400
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Maize,Cereals,800,1700
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Maize,Cereals,1600,7900
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Maize,Cereals,34300,99300
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Maize,Cereals,11100,39400
+ 1998-99,Andhra Pradesh,,West Godavari,Kharif     ,Maize,Cereals,500,1100
+ 1998-99,Andhra Pradesh,,West Godavari,Rabi       ,Maize,Cereals,9200,45800
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Mesta,Fiber Crops,100,800
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Mesta,Fiber Crops,19300,155400
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Mesta,Fiber Crops,400,2900
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Mesta,Fiber Crops,49800,382200
+ 1998-99,Telangana,,Adilabad,Kharif     ,Moong(Green Gram),Pulses,18200,5300
+ 1998-99,Telangana,,Adilabad,Rabi       ,Moong(Green Gram),Pulses,3900,500
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Moong(Green Gram),Pulses,2100,1300
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Moong(Green Gram),Pulses,300,200
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Moong(Green Gram),Pulses,100,100
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Moong(Green Gram),Pulses,63700,28600
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Moong(Green Gram),Pulses,11500,7200
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Moong(Green Gram),Pulses,5000,2000
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Moong(Green Gram),Pulses,600,300
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Moong(Green Gram),Pulses,38600,10300
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Moong(Green Gram),Pulses,33700,16700
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Moong(Green Gram),Pulses,1600,200
+ 1998-99,Andhra Pradesh,,Krishna,Kharif     ,Moong(Green Gram),Pulses,25000,15600
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Moong(Green Gram),Pulses,2900,2100
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Moong(Green Gram),Pulses,4700,2900
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Moong(Green Gram),Pulses,1300,500
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Moong(Green Gram),Pulses,28300,12400
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Moong(Green Gram),Pulses,37800,16600
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Moong(Green Gram),Pulses,43600,22100
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Moong(Green Gram),Pulses,12500,7500
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Moong(Green Gram),Pulses,400,100
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Moong(Green Gram),Pulses,13100,8200
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Moong(Green Gram),Pulses,3200,2600
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Moong(Green Gram),Pulses,16200,10500
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Moong(Green Gram),Pulses,400,200
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Moong(Green Gram),Pulses,6600,1700
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Moong(Green Gram),Pulses,100,100
+ 1998-99,Andhra Pradesh,,Srikakulam,Rabi       ,Moong(Green Gram),Pulses,24300,9100
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Moong(Green Gram),Pulses,2700,1700
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Moong(Green Gram),Pulses,2800,1200
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Moong(Green Gram),Pulses,600,400
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Moong(Green Gram),Pulses,18700,4400
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Moong(Green Gram),Pulses,43100,23900
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Moong(Green Gram),Pulses,100,23900
+ 1998-99,Andhra Pradesh,,West Godavari,Kharif     ,Moong(Green Gram),Pulses,100,23900
+ 1998-99,Andhra Pradesh,,West Godavari,Rabi       ,Moong(Green Gram),Pulses,2300,900
+ 1998-99,Telangana,,Adilabad,Rabi       ,Other  Rabi Pulses,Pulses,2000,300
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Other  Rabi Pulses,Pulses,200,100
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Other  Rabi Pulses,Pulses,200,100
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Other  Rabi Pulses,Pulses,900,200
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Other  Rabi Pulses,Pulses,100,200
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Other  Rabi Pulses,Pulses,100,200
+ 1998-99,Telangana,,Adilabad,Kharif     ,Other Kharif Pulses,Pulses,1200,100
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Other Kharif Pulses,Pulses,2000,300
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Other Kharif Pulses,Pulses,2300,400
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Other Kharif Pulses,Pulses,900,300
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Other Kharif Pulses,Pulses,100,300
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Other Kharif Pulses,Pulses,400,100
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Other Kharif Pulses,Pulses,1200,200
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Other Kharif Pulses,Pulses,300,100
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Other Kharif Pulses,Pulses,100,100
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Other Kharif Pulses,Pulses,1000,600
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Other Kharif Pulses,Pulses,200,600
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Ragi,Cereals,7000,14900
+ 1998-99,Andhra Pradesh,,Anantapur,Rabi       ,Ragi,Cereals,700,1200
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Ragi,Cereals,10800,11000
+ 1998-99,Andhra Pradesh,,Chittoor,Rabi       ,Ragi,Cereals,1600,2700
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Ragi,Cereals,500,500
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Ragi,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Ragi,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Ragi,Cereals,600,1100
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Ragi,Cereals,11900,8600
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Ragi,Cereals,500,1000
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Ragi,Cereals,200,100
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Ragi,Cereals,4500,9500
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Ragi,Cereals,10300,6300
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Ragi,Cereals,100,300
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Ragi,Cereals,300,300
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Ragi,Cereals,500,1000
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Ragi,Cereals,4000,4600
+ 1998-99,Andhra Pradesh,,Srikakulam,Rabi       ,Ragi,Cereals,2100,4200
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Ragi,Cereals,33300,31900
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Ragi,Cereals,2100,4400
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Ragi,Cereals,9200,12500
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Ragi,Cereals,2600,5700
+ 1998-99,Telangana,,Adilabad,Kharif     ,Rice,Cereals,66400,152300
+ 1998-99,Telangana,,Adilabad,Rabi       ,Rice,Cereals,12200,33500
+ 1998-99,Andhra Pradesh,,Anantapur,Kharif     ,Rice,Cereals,38300,96800
+ 1998-99,Andhra Pradesh,,Anantapur,Rabi       ,Rice,Cereals,26600,63900
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Rice,Cereals,42000,105400
+ 1998-99,Andhra Pradesh,,Chittoor,Rabi       ,Rice,Cereals,62400,159200
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Rice,Cereals,256300,386600
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Rice,Cereals,157600,656600
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Rice,Cereals,298400,921400
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Rice,Cereals,29100,99900
+ 1998-99,Telangana,,Hyderabad,Kharif     ,Rice,Cereals,100,200
+ 1998-99,Telangana,,Hyderabad,Rabi       ,Rice,Cereals,100,200
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Rice,Cereals,59200,169800
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Rice,Cereals,17000,41600
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Rice,Cereals,135000,413100
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Rice,Cereals,123300,423400
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Rice,Cereals,160700,439400
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Rice,Cereals,24900,68900
+ 1998-99,Andhra Pradesh,,Krishna,Kharif     ,Rice,Cereals,280800,759900
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Rice,Cereals,134500,491200
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Rice,Cereals,75100,221700
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Rice,Cereals,20900,44500
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Rice,Cereals,72100,141200
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Rice,Cereals,74700,150500
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Rice,Cereals,70700,172100
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Rice,Cereals,52100,131400
+ 1998-99,Andhra Pradesh,,Nalgonda,Kharif     ,Rice,Cereals,164300,491600
+ 1998-99,Andhra Pradesh,,Nalgonda,Rabi       ,Rice,Cereals,153700,431500
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Rice,Cereals,108400,308000
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Rice,Cereals,50100,127800
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Rice,Cereals,72100,206700
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Rice,Cereals,73800,248900
+ 1998-99,Andhra Pradesh,,Rangareddi,Kharif     ,Rice,Cereals,30200,55300
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Rice,Cereals,29800,77000
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Rice,Cereals,44700,133400
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Rice,Cereals,183300,542300
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Rice,Cereals,194400,370700
+ 1998-99,Andhra Pradesh,,Srikakulam,Rabi       ,Rice,Cereals,2000,7500
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Rice,Cereals,114900,141300
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Rice,Cereals,3800,14100
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Rice,Cereals,133000,295600
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Rice,Cereals,3600,13300
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Rice,Cereals,133300,376900
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Rice,Cereals,74400,195900
+ 1998-99,Andhra Pradesh,,West Godavari,Kharif     ,Rice,Cereals,262000,646400
+ 1998-99,Andhra Pradesh,,West Godavari,Rabi       ,Rice,Cereals,194300,849100
+ 1998-99,Telangana,,Adilabad,Kharif     ,Sesamum,Oilseeds,12400,2400
+ 1998-99,Telangana,,Adilabad,Rabi       ,Sesamum,Oilseeds,3100,900
+ 1998-99,Andhra Pradesh,,Chittoor,Kharif     ,Sesamum,Oilseeds,400,100
+ 1998-99,Andhra Pradesh,,Chittoor,Rabi       ,Sesamum,Oilseeds,300,100
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Sesamum,Oilseeds,1700,400
+ 1998-99,Andhra Pradesh,,East Godavari,Rabi       ,Sesamum,Oilseeds,2900,700
+ 1998-99,Andhra Pradesh,,Guntur,Kharif     ,Sesamum,Oilseeds,1900,300
+ 1998-99,Andhra Pradesh,,Guntur,Rabi       ,Sesamum,Oilseeds,6000,2700
+ 1998-99,Andhra Pradesh,,Kadapa,Kharif     ,Sesamum,Oilseeds,4200,800
+ 1998-99,Andhra Pradesh,,Kadapa,Rabi       ,Sesamum,Oilseeds,500,100
+ 1998-99,Andhra Pradesh,,Karimnagar,Kharif     ,Sesamum,Oilseeds,3400,700
+ 1998-99,Andhra Pradesh,,Karimnagar,Rabi       ,Sesamum,Oilseeds,600,200
+ 1998-99,Andhra Pradesh,,Khammam,Kharif     ,Sesamum,Oilseeds,1400,300
+ 1998-99,Andhra Pradesh,,Khammam,Rabi       ,Sesamum,Oilseeds,7900,1400
+ 1998-99,Andhra Pradesh,,Krishna,Kharif     ,Sesamum,Oilseeds,400,100
+ 1998-99,Andhra Pradesh,,Krishna,Rabi       ,Sesamum,Oilseeds,1700,400
+ 1998-99,Andhra Pradesh,,Kurnool,Kharif     ,Sesamum,Oilseeds,100,400
+ 1998-99,Andhra Pradesh,,Kurnool,Rabi       ,Sesamum,Oilseeds,600,200
+ 1998-99,Telangana,,Mahabubnagar,Rabi       ,Sesamum,Oilseeds,1900,500
+ 1998-99,Andhra Pradesh,,Medak,Kharif     ,Sesamum,Oilseeds,200,500
+ 1998-99,Andhra Pradesh,,Medak,Rabi       ,Sesamum,Oilseeds,3700,700
+ 1998-99,Andhra Pradesh,,Nalgonda,Rabi       ,Sesamum,Oilseeds,5900,2000
+ 1998-99,Andhra Pradesh,,Nizamabad,Kharif     ,Sesamum,Oilseeds,1200,200
+ 1998-99,Andhra Pradesh,,Nizamabad,Rabi       ,Sesamum,Oilseeds,100,200
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Sesamum,Oilseeds,3400,600
+ 1998-99,Andhra Pradesh,,Prakasam,Rabi       ,Sesamum,Oilseeds,22100,7400
+ 1998-99,Andhra Pradesh,,Rangareddi,Rabi       ,Sesamum,Oilseeds,1600,100
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Kharif     ,Sesamum,Oilseeds,900,200
+ 1998-99,Andhra Pradesh,,Sri Potti Sriramulu Nellore,Rabi       ,Sesamum,Oilseeds,1300,300
+ 1998-99,Andhra Pradesh,,Srikakulam,Kharif     ,Sesamum,Oilseeds,4600,600
+ 1998-99,Andhra Pradesh,,Srikakulam,Rabi       ,Sesamum,Oilseeds,2000,500
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Kharif     ,Sesamum,Oilseeds,5000,900
+ 1998-99,Andhra Pradesh,,Visakhapatanam,Rabi       ,Sesamum,Oilseeds,9900,2000
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Sesamum,Oilseeds,5600,1000
+ 1998-99,Andhra Pradesh,,Vizianagaram,Rabi       ,Sesamum,Oilseeds,15500,1500
+ 1998-99,Andhra Pradesh,,Warangal,Kharif     ,Sesamum,Oilseeds,300,100
+ 1998-99,Andhra Pradesh,,Warangal,Rabi       ,Sesamum,Oilseeds,23100,6800
+ 1998-99,Andhra Pradesh,,West Godavari,Kharif     ,Sesamum,Oilseeds,1400,500
+ 1998-99,Andhra Pradesh,,East Godavari,Kharif     ,Small Millets,Cereals,200,100
+ 1998-99,Telangana,,Mahabubnagar,Kharif     ,Small Millets,Cereals,100,100
+ 1998-99,Andhra Pradesh,,Prakasam,Kharif     ,Small Millets,Cereals,300,200
+ 1998-99,Andhra Pradesh,,Vizianagaram,Kharif     ,Small Millets,Cereals,2700,1800
+ 1998-99,Telangana,,Adilabad,Whole Year ,Sugarcane,Sugar,300,28800
+ 1998-99,Andhra Pradesh,,Anantapur,Whole Year ,Sugarcane,Sugar,700,65900
+ 1998-99,Andhra Pradesh,,Chittoor,Whole Year ,Sugarcane,Sugar,34500,3377000
+ 1998-99,Andhra Pradesh,,East Godavari,Whole Year ,Sugarcane,Sugar,16400,1254900
+ 1998-99,Andhra Pradesh,,Guntur,Whole Year ,Sugarcane,Sugar,2100,150300
+ 1998-99,Andhra Pradesh,,Kadapa,Whole Year ,Sugarcane,Sugar,400,38200
+ 1998-99,Andhra Pradesh,,Karimnagar,Whole Year ,Sugarcane,Sugar,2000,178800
+ 1998-99,Arunachal Pradesh,,West Siang,Whole Year ,Maize,Cereals,1580,1430
+ 1998-99,Arunachal Pradesh,,Changlang,Whole Year ,Potato,Vegetable,350,1650
+ 1998-99,Arunachal Pradesh,,Dibang Valley,Whole Year ,Potato,Vegetable,480,2400
+ 1998-99,Arunachal Pradesh,,East Kameng,Whole Year ,Potato,Vegetable,62,310
+ 1998-99,Arunachal Pradesh,,East Siang,Whole Year ,Potato,Vegetable,350,3500
+ 1998-99,Arunachal Pradesh,,Lohit,Whole Year ,Potato,Vegetable,607,5099
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Whole Year ,Potato,Vegetable,150,1170
+ 1998-99,Arunachal Pradesh,,Papum Pare,Whole Year ,Potato,Vegetable,80,532
+ 1998-99,Arunachal Pradesh,,Tawang,Whole Year ,Potato,Vegetable,1303,6515
+ 1998-99,Arunachal Pradesh,,Tirap,Whole Year ,Potato,Vegetable,45,271
+ 1998-99,Arunachal Pradesh,,Upper Siang,Whole Year ,Potato,Vegetable,60,480
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Whole Year ,Potato,Vegetable,749,4980
+ 1998-99,Arunachal Pradesh,,West Kameng,Whole Year ,Potato,Vegetable,370,3390
+ 1998-99,Arunachal Pradesh,,West Siang,Whole Year ,Potato,Vegetable,240,1270
+ 1998-99,Arunachal Pradesh,,Changlang,Rabi       ,Rapeseed &Mustard,Oilseeds,4215,3200
+ 1998-99,Arunachal Pradesh,,Dibang Valley,Rabi       ,Rapeseed &Mustard,Oilseeds,2790,3071
+ 1998-99,Arunachal Pradesh,,East Kameng,Rabi       ,Rapeseed &Mustard,Oilseeds,272,350
+ 1998-99,Arunachal Pradesh,,East Siang,Rabi       ,Rapeseed &Mustard,Oilseeds,3350,3420
+ 1998-99,Arunachal Pradesh,,Lohit,Rabi       ,Rapeseed &Mustard,Oilseeds,6720,7380
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Rabi       ,Rapeseed &Mustard,Oilseeds,950,410
+ 1998-99,Arunachal Pradesh,,Papum Pare,Rabi       ,Rapeseed &Mustard,Oilseeds,430,295
+ 1998-99,Arunachal Pradesh,,Tawang,Rabi       ,Rapeseed &Mustard,Oilseeds,56,78
+ 1998-99,Arunachal Pradesh,,Tirap,Rabi       ,Rapeseed &Mustard,Oilseeds,433,121
+ 1998-99,Arunachal Pradesh,,Upper Siang,Rabi       ,Rapeseed &Mustard,Oilseeds,10,12
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Rabi       ,Rapeseed &Mustard,Oilseeds,40,63
+ 1998-99,Arunachal Pradesh,,West Kameng,Rabi       ,Rapeseed &Mustard,Oilseeds,95,95
+ 1998-99,Arunachal Pradesh,,West Siang,Rabi       ,Rapeseed &Mustard,Oilseeds,1270,1135
+ 1998-99,Arunachal Pradesh,,Changlang,Kharif     ,Rice,Cereals,11550,14316
+ 1998-99,Arunachal Pradesh,,Dibang Valley,Kharif     ,Rice,Cereals,10320,12900
+ 1998-99,Arunachal Pradesh,,East Kameng,Kharif     ,Rice,Cereals,8045,8190
+ 1998-99,Arunachal Pradesh,,East Siang,Kharif     ,Rice,Cereals,7323,12600
+ 1998-99,Arunachal Pradesh,,Lohit,Kharif     ,Rice,Cereals,13015,18221
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Kharif     ,Rice,Cereals,21585,15045
+ 1998-99,Arunachal Pradesh,,Papum Pare,Kharif     ,Rice,Cereals,7100,6880
+ 1998-99,Arunachal Pradesh,,Tawang,Kharif     ,Rice,Cereals,890,1112
+ 1998-99,Arunachal Pradesh,,Tirap,Kharif     ,Rice,Cereals,5345,1942
+ 1998-99,Arunachal Pradesh,,Upper Siang,Kharif     ,Rice,Cereals,6210,2890
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Kharif     ,Rice,Cereals,4015,1500
+ 1998-99,Arunachal Pradesh,,West Kameng,Kharif     ,Rice,Cereals,913,806
+ 1998-99,Arunachal Pradesh,,West Siang,Kharif     ,Rice,Cereals,19170,17714
+ 1998-99,Arunachal Pradesh,,Changlang,Kharif     ,Sesamum,Oilseeds,430,244
+ 1998-99,Arunachal Pradesh,,Dibang Valley,Kharif     ,Sesamum,Oilseeds,133,95
+ 1998-99,Arunachal Pradesh,,East Kameng,Kharif     ,Sesamum,Oilseeds,215,90
+ 1998-99,Arunachal Pradesh,,East Siang,Kharif     ,Sesamum,Oilseeds,100,78
+ 1998-99,Arunachal Pradesh,,Lohit,Kharif     ,Sesamum,Oilseeds,96,65
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Kharif     ,Sesamum,Oilseeds,32,15
+ 1998-99,Arunachal Pradesh,,Papum Pare,Kharif     ,Sesamum,Oilseeds,235,80
+ 1998-99,Arunachal Pradesh,,Upper Siang,Kharif     ,Sesamum,Oilseeds,4,3
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Kharif     ,Sesamum,Oilseeds,55,40
+ 1998-99,Arunachal Pradesh,,West Siang,Kharif     ,Sesamum,Oilseeds,60,40
+ 1998-99,Arunachal Pradesh,,Changlang,Kharif     ,Small Millets,Cereals,2000,1305
+ 1998-99,Arunachal Pradesh,,East Kameng,Kharif     ,Small Millets,Cereals,441,358
+ 1998-99,Arunachal Pradesh,,East Siang,Kharif     ,Small Millets,Cereals,2109,2656
+ 1998-99,Arunachal Pradesh,,Lohit,Kharif     ,Small Millets,Cereals,762,571
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Kharif     ,Small Millets,Cereals,864,550
+ 1998-99,Arunachal Pradesh,,Papum Pare,Kharif     ,Small Millets,Cereals,535,494
+ 1998-99,Arunachal Pradesh,,Tawang,Kharif     ,Small Millets,Cereals,943,848
+ 1998-99,Arunachal Pradesh,,Tirap,Kharif     ,Small Millets,Cereals,4430,3628
+ 1998-99,Arunachal Pradesh,,Upper Siang,Kharif     ,Small Millets,Cereals,1200,1320
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Kharif     ,Small Millets,Cereals,875,1075
+ 1998-99,Arunachal Pradesh,,West Kameng,Kharif     ,Small Millets,Cereals,1297,1258
+ 1998-99,Arunachal Pradesh,,West Siang,Kharif     ,Small Millets,Cereals,2520,1538
+ 1998-99,Arunachal Pradesh,,Changlang,Kharif     ,Soyabean,Oilseeds,520,592
+ 1998-99,Arunachal Pradesh,,Dibang Valley,Kharif     ,Soyabean,Oilseeds,335,670
+ 1998-99,Arunachal Pradesh,,East Kameng,Kharif     ,Soyabean,Oilseeds,96,205
+ 1998-99,Arunachal Pradesh,,East Siang,Kharif     ,Soyabean,Oilseeds,341,324
+ 1998-99,Arunachal Pradesh,,Lohit,Kharif     ,Soyabean,Oilseeds,240,450
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Kharif     ,Soyabean,Oilseeds,79,60
+ 1998-99,Arunachal Pradesh,,Papum Pare,Kharif     ,Soyabean,Oilseeds,253,280
+ 1998-99,Arunachal Pradesh,,Tawang,Kharif     ,Soyabean,Oilseeds,145,214
+ 1998-99,Arunachal Pradesh,,Tirap,Kharif     ,Soyabean,Oilseeds,400,130
+ 1998-99,Arunachal Pradesh,,Upper Siang,Kharif     ,Soyabean,Oilseeds,13,16
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Kharif     ,Soyabean,Oilseeds,73,170
+ 1998-99,Arunachal Pradesh,,West Kameng,Kharif     ,Soyabean,Oilseeds,25,51
+ 1998-99,Arunachal Pradesh,,West Siang,Kharif     ,Soyabean,Oilseeds,200,228
+ 1998-99,Arunachal Pradesh,,Changlang,Whole Year ,Sugarcane,Sugar,240,4650
+ 1998-99,Arunachal Pradesh,,East Siang,Whole Year ,Sugarcane,Sugar,133,5616
+ 1998-99,Arunachal Pradesh,,Lohit,Whole Year ,Sugarcane,Sugar,15,105
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Whole Year ,Sugarcane,Sugar,90,540
+ 1998-99,Arunachal Pradesh,,Papum Pare,Whole Year ,Sugarcane,Sugar,107,999
+ 1998-99,Arunachal Pradesh,,Tirap,Whole Year ,Sugarcane,Sugar,35,208
+ 1998-99,Arunachal Pradesh,,Upper Siang,Whole Year ,Sugarcane,Sugar,25,140
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Whole Year ,Sugarcane,Sugar,15,555
+ 1998-99,Arunachal Pradesh,,West Siang,Whole Year ,Sugarcane,Sugar,83,2219
+ 1998-99,Arunachal Pradesh,,Changlang,Kharif     ,Sunflower,Oilseeds,55,20
+ 1998-99,Arunachal Pradesh,,Dibang Valley,Kharif     ,Sunflower,Oilseeds,20,10
+ 1998-99,Arunachal Pradesh,,East Kameng,Kharif     ,Sunflower,Oilseeds,38,26
+ 1998-99,Arunachal Pradesh,,East Siang,Kharif     ,Sunflower,Oilseeds,29,13
+ 1998-99,Arunachal Pradesh,,Lohit,Kharif     ,Sunflower,Oilseeds,35,20
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Kharif     ,Sunflower,Oilseeds,25,7
+ 1998-99,Arunachal Pradesh,,Papum Pare,Kharif     ,Sunflower,Oilseeds,60,20
+ 1998-99,Arunachal Pradesh,,Tawang,Kharif     ,Sunflower,Oilseeds,77,45
+ 1998-99,Arunachal Pradesh,,Tirap,Kharif     ,Sunflower,Oilseeds,20,3
+ 1998-99,Arunachal Pradesh,,Upper Siang,Kharif     ,Sunflower,Oilseeds,3,2
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Kharif     ,Sunflower,Oilseeds,15,8
+ 1998-99,Arunachal Pradesh,,West Kameng,Kharif     ,Sunflower,Oilseeds,28,16
+ 1998-99,Arunachal Pradesh,,West Siang,Kharif     ,Sunflower,Oilseeds,30,15
+ 1998-99,Arunachal Pradesh,,Changlang,Whole Year ,Turmeric,Spices,105,535
+ 1998-99,Arunachal Pradesh,,East Siang,Whole Year ,Turmeric,Spices,90,164
+ 1998-99,Arunachal Pradesh,,Lohit,Whole Year ,Turmeric,Spices,76,157
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Whole Year ,Turmeric,Spices,25,50
+ 1998-99,Arunachal Pradesh,,Tirap,Whole Year ,Turmeric,Spices,15,64
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Whole Year ,Turmeric,Spices,20,150
+ 1998-99,Arunachal Pradesh,,West Siang,Whole Year ,Turmeric,Spices,35,79
+ 1998-99,Arunachal Pradesh,,Changlang,Rabi       ,Wheat,Cereals,225,230
+ 1998-99,Arunachal Pradesh,,Dibang Valley,Rabi       ,Wheat,Cereals,100,140
+ 1998-99,Arunachal Pradesh,,East Kameng,Rabi       ,Wheat,Cereals,5,6
+ 1998-99,Arunachal Pradesh,,East Siang,Rabi       ,Wheat,Cereals,400,600
+ 1998-99,Arunachal Pradesh,,Lohit,Rabi       ,Wheat,Cereals,198,234
+ 1998-99,Arunachal Pradesh,,Lower Subansiri,Rabi       ,Wheat,Cereals,45,40
+ 1998-99,Arunachal Pradesh,,Papum Pare,Rabi       ,Wheat,Cereals,125,140
+ 1998-99,Arunachal Pradesh,,Tawang,Rabi       ,Wheat,Cereals,1795,2154
+ 1998-99,Arunachal Pradesh,,Tirap,Rabi       ,Wheat,Cereals,5,3
+ 1998-99,Arunachal Pradesh,,Upper Subansiri,Rabi       ,Wheat,Cereals,15,30
+ 1998-99,Arunachal Pradesh,,West Kameng,Rabi       ,Wheat,Cereals,677,765
+ 1998-99,Arunachal Pradesh,,West Siang,Rabi       ,Wheat,Cereals,70,53
+ 1998-99,Assam,,Barpeta,Whole Year ,Arecanut,Spices,7160,6649
+ 1998-99,Assam,,Bongaigaon,Whole Year ,Arecanut,Spices,2970,4020
+ 1998-99,Assam,,Cachar,Whole Year ,Arecanut,Spices,4515,2237
+ 1998-99,Assam,,Darrang,Whole Year ,Arecanut,Spices,4580,2050
+ 1998-99,Assam,,Dhemaji,Whole Year ,Arecanut,Spices,838,882
+ 1998-99,Assam,,Dhubri,Whole Year ,Arecanut,Spices,2273,1512
+ 1998-99,Assam,,Dibrugarh,Whole Year ,Arecanut,Spices,3380,2887
+ 1998-99,Assam,,Dima Hasao,Whole Year ,Arecanut,Spices,335,226
+ 1998-99,Assam,,Goalpara,Whole Year ,Arecanut,Spices,2598,1422
+ 1998-99,Assam,,Golaghat,Whole Year ,Arecanut,Spices,4730,2244
+ 1998-99,Assam,,Hailakandi,Whole Year ,Arecanut,Spices,2400,4292
+ 1998-99,Assam,,Jorhat,Whole Year ,Arecanut,Spices,2766,1059
+ 1998-99,Assam,,Kamrup,Whole Year ,Arecanut,Spices,5400,3011
+ 1998-99,Assam,,Karbi Anglong,Whole Year ,Arecanut,Spices,1213,509
+ 1998-99,Assam,,Karimganj,Whole Year ,Arecanut,Spices,2100,925
+ 1998-99,Assam,,Kokrajhar,Whole Year ,Arecanut,Spices,1356,1706
+ 1998-99,Assam,,Lakhimpur,Whole Year ,Arecanut,Spices,2242,2767
+ 1998-99,Assam,,Marigaon,Whole Year ,Arecanut,Spices,1403,1239
+ 1998-99,Assam,,Nagaon,Whole Year ,Arecanut,Spices,5934,3767
+ 1998-99,Assam,,Nalbari,Whole Year ,Arecanut,Spices,3990,3071
+ 1998-99,Assam,,Sivasagar,Whole Year ,Arecanut,Spices,6020,4597
+ 1998-99,Assam,,Sonitpur,Whole Year ,Arecanut,Spices,4158,2616
+ 1998-99,Assam,,Tinsukia,Whole Year ,Arecanut,Spices,2096,1667
+ 1998-99,Assam,,Barpeta,Kharif     ,Arhar/Tur,Pulses,320,263
+ 1998-99,Assam,,Bongaigaon,Kharif     ,Arhar/Tur,Pulses,200,168
+ 1998-99,Assam,,Cachar,Kharif     ,Arhar/Tur,Pulses,102,72
+ 1998-99,Assam,,Darrang,Kharif     ,Arhar/Tur,Pulses,440,256
+ 1998-99,Assam,,Dhemaji,Kharif     ,Arhar/Tur,Pulses,35,26
+ 1998-99,Assam,,Dhubri,Kharif     ,Arhar/Tur,Pulses,387,281
+ 1998-99,Assam,,Dibrugarh,Kharif     ,Arhar/Tur,Pulses,75,56
+ 1998-99,Assam,,Dima Hasao,Kharif     ,Arhar/Tur,Pulses,123,89
+ 1998-99,Assam,,Goalpara,Kharif     ,Arhar/Tur,Pulses,396,332
+ 1998-99,Assam,,Golaghat,Kharif     ,Arhar/Tur,Pulses,270,184
+ 1998-99,Assam,,Hailakandi,Kharif     ,Arhar/Tur,Pulses,45,31
+ 1998-99,Assam,,Jorhat,Kharif     ,Arhar/Tur,Pulses,25,16
+ 1998-99,Assam,,Kamrup,Kharif     ,Arhar/Tur,Pulses,456,366
+ 1998-99,Assam,,Karbi Anglong,Kharif     ,Arhar/Tur,Pulses,1016,692
+ 1998-99,Assam,,Karimganj,Kharif     ,Arhar/Tur,Pulses,60,41
+ 1998-99,Assam,,Kokrajhar,Kharif     ,Arhar/Tur,Pulses,304,197
+ 1998-99,Assam,,Lakhimpur,Kharif     ,Arhar/Tur,Pulses,77,54
+ 1998-99,Assam,,Marigaon,Kharif     ,Arhar/Tur,Pulses,180,120
+ 1998-99,Assam,,Nagaon,Kharif     ,Arhar/Tur,Pulses,2394,1614
+ 1998-99,Assam,,Nalbari,Kharif     ,Arhar/Tur,Pulses,310,186
+ 1998-99,Assam,,Sivasagar,Kharif     ,Arhar/Tur,Pulses,23,13
+ 1998-99,Assam,,Sonitpur,Kharif     ,Arhar/Tur,Pulses,334,269
+ 1998-99,Assam,,Tinsukia,Kharif     ,Arhar/Tur,Pulses,85,63
+ 1998-99,Assam,,Barpeta,Whole Year ,Banana,Fruits,5130,77207
+ 1998-99,Assam,,Bongaigaon,Whole Year ,Banana,Fruits,882,10713
+ 1998-99,Assam,,Cachar,Whole Year ,Banana,Fruits,2900,35409
+ 1998-99,Assam,,Darrang,Whole Year ,Banana,Fruits,1810,23479
+ 1998-99,Assam,,Dhemaji,Whole Year ,Banana,Fruits,946,14941
+ 1998-99,Assam,,Dhubri,Whole Year ,Banana,Fruits,1661,25438
+ 1998-99,Assam,,Dibrugarh,Whole Year ,Banana,Fruits,565,7427
+ 1998-99,Assam,,Dima Hasao,Whole Year ,Banana,Fruits,500,7250
+ 1998-99,Assam,,Goalpara,Whole Year ,Banana,Fruits,1585,24515
+ 1998-99,Assam,,Golaghat,Whole Year ,Banana,Fruits,2189,30342
+ 1998-99,Assam,,Hailakandi,Whole Year ,Banana,Fruits,1080,13403
+ 1998-99,Assam,,Jorhat,Whole Year ,Banana,Fruits,2170,29193
+ 1998-99,Assam,,Kamrup,Whole Year ,Banana,Fruits,3342,43192
+ 1998-99,Assam,,Karbi Anglong,Whole Year ,Banana,Fruits,1687,22634
+ 1998-99,Assam,,Karimganj,Whole Year ,Banana,Fruits,938,11896
+ 1998-99,Assam,,Kokrajhar,Whole Year ,Banana,Fruits,925,15236
+ 1998-99,Assam,,Lakhimpur,Whole Year ,Banana,Fruits,1110,14430
+ 1998-99,Assam,,Marigaon,Whole Year ,Banana,Fruits,460,5520
+ 1998-99,Assam,,Nagaon,Whole Year ,Banana,Fruits,3755,56002
+ 1998-99,Assam,,Nalbari,Whole Year ,Banana,Fruits,2000,29288
+ 1998-99,Assam,,Sivasagar,Whole Year ,Banana,Fruits,1920,27412
+ 1998-99,Assam,,Sonitpur,Whole Year ,Banana,Fruits,2580,32947
+ 1998-99,Assam,,Tinsukia,Whole Year ,Banana,Fruits,1750,24010
+ 1998-99,Assam,,Barpeta,Kharif     ,Castor Seed,Oilseeds,10,6
+ 1998-99,Assam,,Bongaigaon,Kharif     ,Castor Seed,Oilseeds,43,17
+ 1998-99,Assam,,Darrang,Kharif     ,Castor Seed,Oilseeds,82,33
+ 1998-99,Assam,,Dhemaji,Kharif     ,Castor Seed,Oilseeds,179,79
+ 1998-99,Assam,,Dhubri,Kharif     ,Castor Seed,Oilseeds,16,9
+ 1998-99,Assam,,Dibrugarh,Kharif     ,Castor Seed,Oilseeds,34,11
+ 1998-99,Assam,,Dima Hasao,Kharif     ,Castor Seed,Oilseeds,86,39
+ 1998-99,Assam,,Goalpara,Kharif     ,Castor Seed,Oilseeds,50,18
+ 1998-99,Assam,,Golaghat,Kharif     ,Castor Seed,Oilseeds,4,1
+ 1998-99,Assam,,Hailakandi,Kharif     ,Castor Seed,Oilseeds,6,2
+ 1998-99,Assam,,Jorhat,Kharif     ,Castor Seed,Oilseeds,18,7
+ 1998-99,Assam,,Kamrup,Kharif     ,Castor Seed,Oilseeds,221,72
+ 1998-99,Assam,,Karbi Anglong,Kharif     ,Castor Seed,Oilseeds,520,211
+ 1998-99,Assam,,Kokrajhar,Kharif     ,Castor Seed,Oilseeds,55,26
+ 1998-99,Assam,,Lakhimpur,Kharif     ,Castor Seed,Oilseeds,221,99
+ 1998-99,Assam,,Marigaon,Kharif     ,Castor Seed,Oilseeds,20,4
+ 1998-99,Assam,,Nagaon,Kharif     ,Castor Seed,Oilseeds,42,17
+ 1998-99,Assam,,Nalbari,Kharif     ,Castor Seed,Oilseeds,50,25
+ 1998-99,Assam,,Sivasagar,Kharif     ,Castor Seed,Oilseeds,19,8
+ 1998-99,Assam,,Sonitpur,Kharif     ,Castor Seed,Oilseeds,46,21
+ 1998-99,Assam,,Tinsukia,Kharif     ,Castor Seed,Oilseeds,6,3
+ 1998-99,Assam,,Barpeta,Whole Year ,Coconut,Oilseeds,1122,8065000
+ 1998-99,Assam,,Bongaigaon,Whole Year ,Coconut,Oilseeds,482,1820000
+ 1998-99,Assam,,Cachar,Whole Year ,Coconut,Oilseeds,1410,6666000
+ 1998-99,Assam,,Darrang,Whole Year ,Coconut,Oilseeds,865,4899000
+ 1998-99,Assam,,Dhemaji,Whole Year ,Coconut,Oilseeds,113,580000
+ 1998-99,Assam,,Dhubri,Whole Year ,Coconut,Oilseeds,688,4457000
+ 1998-99,Assam,,Dibrugarh,Whole Year ,Coconut,Oilseeds,163,213000
+ 1998-99,Bihar,,Kishanganj,Rabi       ,Linseed,Oilseeds,2692,1696
+ 1998-99,Jharkhand,,Koderma,Rabi       ,Linseed,Oilseeds,7,4
+ 1998-99,Bihar,,Lakhisarai,Rabi       ,Linseed,Oilseeds,66,36
+ 1998-99,Jharkhand,,Lohardaga,Rabi       ,Linseed,Oilseeds,34,27
+ 1998-99,Bihar,,Madhepura,Rabi       ,Linseed,Oilseeds,1445,1104
+ 1998-99,Bihar,,Madhubani,Rabi       ,Linseed,Oilseeds,2146,1781
+ 1998-99,Bihar,,Munger,Rabi       ,Linseed,Oilseeds,96,53
+ 1998-99,Bihar,,Muzaffarpur,Rabi       ,Linseed,Oilseeds,505,281
+ 1998-99,Bihar,,Nalanda,Rabi       ,Linseed,Oilseeds,394,195
+ 1998-99,Bihar,,Nawada,Rabi       ,Linseed,Oilseeds,1595,1005
+ 1998-99,Jharkhand,,Pakur,Rabi       ,Linseed,Oilseeds,281,177
+ 1998-99,Jharkhand,,Palamu,Rabi       ,Linseed,Oilseeds,1952,1441
+ 1998-99,Bihar,,Pashchim Champaran,Rabi       ,Linseed,Oilseeds,5462,3037
+ 1998-99,Bihar,,Patna,Rabi       ,Linseed,Oilseeds,265,131
+ 1998-99,Bihar,,Purbi Champaran,Rabi       ,Linseed,Oilseeds,2217,1233
+ 1998-99,Bihar,,Purnia,Rabi       ,Linseed,Oilseeds,1423,896
+ 1998-99,Jharkhand,,Ranchi,Rabi       ,Linseed,Oilseeds,30,24
+ 1998-99,Bihar,,Rohtas,Rabi       ,Linseed,Oilseeds,2962,1463
+ 1998-99,Bihar,,Saharsa,Rabi       ,Linseed,Oilseeds,1035,791
+ 1998-99,Jharkhand,,Sahebganj,Rabi       ,Linseed,Oilseeds,714,450
+ 1998-99,Bihar,,Samastipur,Rabi       ,Linseed,Oilseeds,389,323
+ 1998-99,Bihar,,Saran,Rabi       ,Linseed,Oilseeds,104,77
+ 1998-99,Bihar,,Sheikhpura,Rabi       ,Linseed,Oilseeds,135,74
+ 1998-99,Bihar,,Sheohar,Rabi       ,Linseed,Oilseeds,537,299
+ 1998-99,Bihar,,Sitamarhi,Rabi       ,Linseed,Oilseeds,633,352
+ 1998-99,Bihar,,Siwan,Rabi       ,Linseed,Oilseeds,396,293
+ 1998-99,Bihar,,Supaul,Rabi       ,Linseed,Oilseeds,2093,1599
+ 1998-99,Bihar,,Vaishali,Rabi       ,Linseed,Oilseeds,167,93
+ 1998-99,Jharkhand,,West Singhbhum,Rabi       ,Linseed,Oilseeds,1685,1331
+ 1998-99,Bihar,,Araria,Kharif     ,Maize,Cereals,5759,7097
+ 1998-99,Bihar,,Araria,Rabi       ,Maize,Cereals,3205,7936
+ 1998-99,Bihar,,Araria,Summer     ,Maize,Cereals,6905,9059
+ 1998-99,Bihar,,Aurangabad,Kharif     ,Maize,Cereals,530,613
+ 1998-99,Bihar,,Aurangabad,Rabi       ,Maize,Cereals,11,33
+ 1998-99,Bihar,,Aurangabad,Summer     ,Maize,Cereals,24,46
+ 1998-99,Bihar,,Banka,Kharif     ,Maize,Cereals,7782,7888
+ 1998-99,Bihar,,Banka,Rabi       ,Maize,Cereals,2523,4014
+ 1998-99,Bihar,,Banka,Summer     ,Maize,Cereals,2108,2650
+ 1998-99,Bihar,,Begusarai,Kharif     ,Maize,Cereals,51968,21217
+ 1998-99,Bihar,,Begusarai,Rabi       ,Maize,Cereals,17542,58783
+ 1998-99,Bihar,,Begusarai,Summer     ,Maize,Cereals,465,1092
+ 1998-99,Bihar,,Bhagalpur,Kharif     ,Maize,Cereals,28131,37257
+ 1998-99,Bihar,,Bhagalpur,Rabi       ,Maize,Cereals,8536,2787
+ 1998-99,Bihar,,Bhagalpur,Summer     ,Maize,Cereals,7751,10695
+ 1998-99,Bihar,,Bhojpur,Kharif     ,Maize,Cereals,1900,1996
+ 1998-99,Bihar,,Bhojpur,Rabi       ,Maize,Cereals,27,81
+ 1998-99,Bihar,,Bhojpur,Summer     ,Maize,Cereals,140,370
+ 1998-99,Jharkhand,,Bokaro,Kharif     ,Maize,Cereals,3751,4760
+ 1998-99,Bihar,,Buxar,Kharif     ,Maize,Cereals,966,1786
+ 1998-99,Bihar,,Buxar,Rabi       ,Maize,Cereals,10,30
+ 1998-99,Jharkhand,,Chatra,Kharif     ,Maize,Cereals,5742,6658
+ 1998-99,Jharkhand,,Chatra,Summer     ,Maize,Cereals,20,41
+ 1998-99,Bihar,,Darbhanga,Kharif     ,Maize,Cereals,1246,1915
+ 1998-99,Bihar,,Darbhanga,Rabi       ,Maize,Cereals,5709,13884
+ 1998-99,Bihar,,Darbhanga,Summer     ,Maize,Cereals,2779,4594
+ 1998-99,Bihar,,Deoghar,Kharif     ,Maize,Cereals,3698,3671
+ 1998-99,Bihar,,Deoghar,Summer     ,Maize,Cereals,85,197
+ 1998-99,Bihar,,Dhanbad,Kharif     ,Maize,Cereals,1590,1332
+ 1998-99,Jharkhand,,Dumka,Kharif     ,Maize,Cereals,14617,23721
+ 1998-99,Jharkhand,,Dumka,Rabi       ,Maize,Cereals,68,203
+ 1998-99,Jharkhand,,Dumka,Summer     ,Maize,Cereals,113,251
+ 1998-99,Jharkhand,,East Singhbum,Kharif     ,Maize,Cereals,741,1148
+ 1998-99,Bihar,,Garhwa,Kharif     ,Maize,Cereals,8963,11432
+ 1998-99,Bihar,,Garhwa,Rabi       ,Maize,Cereals,4,12
+ 1998-99,Bihar,,Garhwa,Summer     ,Maize,Cereals,23,52
+ 1998-99,Bihar,,Gaya,Kharif     ,Maize,Cereals,9751,8243
+ 1998-99,Bihar,,Gaya,Rabi       ,Maize,Cereals,56,167
+ 1998-99,Bihar,,Gaya,Summer     ,Maize,Cereals,712,1577
+ 1998-99,Jharkhand,,Giridih,Kharif     ,Maize,Cereals,651,870
+ 1998-99,Jharkhand,,Giridih,Rabi       ,Maize,Cereals,1,3
+ 1998-99,Jharkhand,,Giridih,Summer     ,Maize,Cereals,9,17
+ 1998-99,Jharkhand,,Godda,Kharif     ,Maize,Cereals,5375,8776
+ 1998-99,Jharkhand,,Godda,Rabi       ,Maize,Cereals,443,1321
+ 1998-99,Jharkhand,,Godda,Summer     ,Maize,Cereals,60,122
+ 1998-99,Bihar,,Gopalganj,Kharif     ,Maize,Cereals,9734,8933
+ 1998-99,Bihar,,Gopalganj,Rabi       ,Maize,Cereals,7096,18513
+ 1998-99,Bihar,,Gopalganj,Summer     ,Maize,Cereals,2125,2326
+ 1998-99,Jharkhand,,Gumla,Kharif     ,Maize,Cereals,1595,3112
+ 1998-99,Jharkhand,,Gumla,Rabi       ,Maize,Cereals,2,6
+ 1998-99,Jharkhand,,Gumla,Summer     ,Maize,Cereals,9,17
+ 1998-99,Jharkhand,,Hazaribagh,Kharif     ,Maize,Cereals,7489,11523
+ 1998-99,Jharkhand,,Hazaribagh,Rabi       ,Maize,Cereals,113,337
+ 1998-99,Jharkhand,,Hazaribagh,Summer     ,Maize,Cereals,62,136
+ 1998-99,Bihar,,Jamui,Kharif     ,Maize,Cereals,3634,617
+ 1998-99,Bihar,,Jamui,Rabi       ,Maize,Cereals,173,619
+ 1998-99,Bihar,,Jamui,Summer     ,Maize,Cereals,370,919
+ 1998-99,Bihar,,Jehanabad,Kharif     ,Maize,Cereals,8,8
+ 1998-99,Bihar,,Jehanabad,Rabi       ,Maize,Cereals,464,1384
+ 1998-99,Bihar,,Jehanabad,Summer     ,Maize,Cereals,204,475
+ 1998-99,Bihar,,Kaimur (Bhabua),Kharif     ,Maize,Cereals,240,446
+ 1998-99,Bihar,,Kaimur (Bhabua),Summer     ,Maize,Cereals,11,24
+ 1998-99,Bihar,,Katihar,Kharif     ,Maize,Cereals,9092,5817
+ 1998-99,Bihar,,Katihar,Rabi       ,Maize,Cereals,8051,22808
+ 1998-99,Bihar,,Katihar,Summer     ,Maize,Cereals,6073,24262
+ 1998-99,Bihar,,Khagaria,Kharif     ,Maize,Cereals,14835,7373
+ 1998-99,Bihar,,Khagaria,Rabi       ,Maize,Cereals,29522,109674
+ 1998-99,Bihar,,Khagaria,Summer     ,Maize,Cereals,2358,4518
+ 1998-99,Bihar,,Kishanganj,Kharif     ,Maize,Cereals,286,246
+ 1998-99,Bihar,,Kishanganj,Rabi       ,Maize,Cereals,164,406
+ 1998-99,Bihar,,Kishanganj,Summer     ,Maize,Cereals,342,988
+ 1998-99,Jharkhand,,Koderma,Kharif     ,Maize,Cereals,1491,1876
+ 1998-99,Bihar,,Lakhisarai,Kharif     ,Maize,Cereals,3049,2515
+ 1998-99,Jharkhand,,Lohardaga,Kharif     ,Maize,Cereals,1944,2681
+ 1998-99,Jharkhand,,Lohardaga,Rabi       ,Maize,Cereals,6,18
+ 1998-99,Jharkhand,,Lohardaga,Summer     ,Maize,Cereals,97,209
+ 1998-99,Bihar,,Madhepura,Kharif     ,Maize,Cereals,6349,7672
+ 1998-99,Bihar,,Madhepura,Rabi       ,Maize,Cereals,10342,30757
+ 1998-99,Bihar,,Madhepura,Summer     ,Maize,Cereals,24638,91273
+ 1998-99,Bihar,,Madhubani,Kharif     ,Maize,Cereals,2477,3526
+ 1998-99,Bihar,,Madhepura,Summer     ,Rice,Cereals,2906,5193
+ 1998-99,Bihar,,Madhepura,Winter     ,Rice,Cereals,66359,82864
+ 1998-99,Bihar,,Madhubani,Summer     ,Rice,Cereals,4869,5691
+ 1998-99,Bihar,,Madhubani,Winter     ,Rice,Cereals,135024,119136
+ 1998-99,Bihar,,Munger,Winter     ,Rice,Cereals,28598,36210
+ 1998-99,Bihar,,Muzaffarpur,Summer     ,Rice,Cereals,2253,1422
+ 1998-99,Bihar,,Muzaffarpur,Winter     ,Rice,Cereals,98422,100414
+ 1998-99,Bihar,,Nalanda,Summer     ,Rice,Cereals,17,38
+ 1998-99,Bihar,,Nalanda,Winter     ,Rice,Cereals,113571,200705
+ 1998-99,Bihar,,Nawada,Summer     ,Rice,Cereals,80,174
+ 1998-99,Bihar,,Nawada,Winter     ,Rice,Cereals,82155,142253
+ 1998-99,Jharkhand,,Pakur,Summer     ,Rice,Cereals,116,199
+ 1998-99,Jharkhand,,Pakur,Winter     ,Rice,Cereals,47699,68551
+ 1998-99,Jharkhand,,Palamu,Summer     ,Rice,Cereals,128,193
+ 1998-99,Jharkhand,,Palamu,Winter     ,Rice,Cereals,59524,50537
+ 1998-99,Bihar,,Pashchim Champaran,Summer     ,Rice,Cereals,10322,15100
+ 1998-99,Bihar,,Pashchim Champaran,Winter     ,Rice,Cereals,114373,184682
+ 1998-99,Bihar,,Patna,Summer     ,Rice,Cereals,25,56
+ 1998-99,Bihar,,Patna,Winter     ,Rice,Cereals,112521,286139
+ 1998-99,Bihar,,Purbi Champaran,Summer     ,Rice,Cereals,1254,1326
+ 1998-99,Bihar,,Purbi Champaran,Winter     ,Rice,Cereals,97628,109999
+ 1998-99,Bihar,,Purnia,Summer     ,Rice,Cereals,18535,45627
+ 1998-99,Bihar,,Purnia,Winter     ,Rice,Cereals,80680,84100
+ 1998-99,Jharkhand,,Ranchi,Summer     ,Rice,Cereals,1090,2302
+ 1998-99,Jharkhand,,Ranchi,Winter     ,Rice,Cereals,137903,181585
+ 1998-99,Bihar,,Rohtas,Summer     ,Rice,Cereals,504,976
+ 1998-99,Bihar,,Rohtas,Winter     ,Rice,Cereals,209869,508689
+ 1998-99,Bihar,,Saharsa,Summer     ,Rice,Cereals,9563,12907
+ 1998-99,Bihar,,Saharsa,Winter     ,Rice,Cereals,76392,71261
+ 1998-99,Jharkhand,,Sahebganj,Summer     ,Rice,Cereals,457,621
+ 1998-99,Jharkhand,,Sahebganj,Winter     ,Rice,Cereals,32041,51404
+ 1998-99,Bihar,,Samastipur,Summer     ,Rice,Cereals,2188,2574
+ 1998-99,Bihar,,Samastipur,Winter     ,Rice,Cereals,56336,53033
+ 1998-99,Bihar,,Saran,Summer     ,Rice,Cereals,45,100
+ 1998-99,Bihar,,Saran,Winter     ,Rice,Cereals,77562,97032
+ 1998-99,Bihar,,Sheikhpura,Winter     ,Rice,Cereals,22716,31641
+ 1998-99,Bihar,,Sheohar,Summer     ,Rice,Cereals,62,115
+ 1998-99,Bihar,,Sheohar,Winter     ,Rice,Cereals,18449,15898
+ 1998-99,Bihar,,Sitamarhi,Summer     ,Rice,Cereals,1869,2116
+ 1998-99,Bihar,,Sitamarhi,Winter     ,Rice,Cereals,75361,46312
+ 1998-99,Bihar,,Siwan,Summer     ,Rice,Cereals,10,22
+ 1998-99,Bihar,,Siwan,Winter     ,Rice,Cereals,62745,84150
+ 1998-99,Bihar,,Supaul,Summer     ,Rice,Cereals,7277,12887
+ 1998-99,Bihar,,Supaul,Winter     ,Rice,Cereals,82184,82916
+ 1998-99,Bihar,,Vaishali,Summer     ,Rice,Cereals,517,960
+ 1998-99,Bihar,,Vaishali,Winter     ,Rice,Cereals,47253,49377
+ 1998-99,Jharkhand,,West Singhbhum,Summer     ,Rice,Cereals,190,232
+ 1998-99,Jharkhand,,West Singhbhum,Winter     ,Rice,Cereals,183465,107052
+ 1998-99,Bihar,,Banka,Rabi       ,Safflower,Oilseeds,5,3
+ 1998-99,Bihar,,Begusarai,Rabi       ,Safflower,Oilseeds,83,29
+ 1998-99,Bihar,,Bhagalpur,Rabi       ,Safflower,Oilseeds,5,3
+ 1998-99,Bihar,,Buxar,Rabi       ,Safflower,Oilseeds,76,63
+ 1998-99,Bihar,,Garhwa,Rabi       ,Safflower,Oilseeds,46,26
+ 1998-99,Bihar,,Gopalganj,Rabi       ,Safflower,Oilseeds,153,87
+ 1998-99,Jharkhand,,Hazaribagh,Rabi       ,Safflower,Oilseeds,3,2
+ 1998-99,Bihar,,Kaimur (Bhabua),Rabi       ,Safflower,Oilseeds,7,6
+ 1998-99,Bihar,,Khagaria,Rabi       ,Safflower,Oilseeds,13,4
+ 1998-99,Bihar,,Muzaffarpur,Rabi       ,Safflower,Oilseeds,275,157
+ 1998-99,Bihar,,Nawada,Rabi       ,Safflower,Oilseeds,3,2
+ 1998-99,Bihar,,Pashchim Champaran,Rabi       ,Safflower,Oilseeds,23,13
+ 1998-99,Jharkhand,,Ranchi,Rabi       ,Safflower,Oilseeds,8,5
+ 1998-99,Bihar,,Samastipur,Rabi       ,Safflower,Oilseeds,13,7
+ 1998-99,Bihar,,Araria,Whole Year ,Sannhamp,Fiber Crops,10,5
+ 1998-99,Bihar,,Aurangabad,Whole Year ,Sannhamp,Fiber Crops,4,1
+ 1998-99,Bihar,,Banka,Whole Year ,Sannhamp,Fiber Crops,603,342
+ 1998-99,Bihar,,Begusarai,Whole Year ,Sannhamp,Fiber Crops,100,86
+ 1998-99,Bihar,,Bhagalpur,Whole Year ,Sannhamp,Fiber Crops,181,103
+ 1998-99,Jharkhand,,Bokaro,Whole Year ,Sannhamp,Fiber Crops,20,11
+ 1998-99,Jharkhand,,Dumka,Whole Year ,Sannhamp,Fiber Crops,17,13
+ 1998-99,Jharkhand,,East Singhbum,Whole Year ,Sannhamp,Fiber Crops,13,9
+ 1998-99,Bihar,,Garhwa,Whole Year ,Sannhamp,Fiber Crops,403,260
+ 1998-99,Bihar,,Gaya,Whole Year ,Sannhamp,Fiber Crops,66,21
+ 1998-99,Jharkhand,,Giridih,Whole Year ,Sannhamp,Fiber Crops,6,3
+ 1998-99,Jharkhand,,Godda,Whole Year ,Sannhamp,Fiber Crops,21,16
+ 1998-99,Bihar,,Gopalganj,Whole Year ,Sannhamp,Fiber Crops,129,96
+ 1998-99,Jharkhand,,Gumla,Whole Year ,Sannhamp,Fiber Crops,435,274
+ 1998-99,Bihar,,Jehanabad,Whole Year ,Sannhamp,Fiber Crops,3,1
+ 1998-99,Bihar,,Khagaria,Whole Year ,Sannhamp,Fiber Crops,155,44
+ 1998-99,Bihar,,Kishanganj,Whole Year ,Sannhamp,Fiber Crops,103,49
+ 1998-99,Jharkhand,,Lohardaga,Whole Year ,Sannhamp,Fiber Crops,49,30
+ 1998-99,Bihar,,Madhepura,Whole Year ,Sannhamp,Fiber Crops,192,85
+ 1998-99,Bihar,,Munger,Whole Year ,Sannhamp,Fiber Crops,22,6
+ 1998-99,Bihar,,Muzaffarpur,Whole Year ,Sannhamp,Fiber Crops,5,2
+ 1998-99,Bihar,,Nalanda,Whole Year ,Sannhamp,Fiber Crops,193,95
+ 1998-99,Bihar,,Nawada,Whole Year ,Sannhamp,Fiber Crops,49,16
+ 1998-99,Jharkhand,,Palamu,Whole Year ,Sannhamp,Fiber Crops,105,29
+ 1998-99,Bihar,,Pashchim Champaran,Whole Year ,Sannhamp,Fiber Crops,112,52
+ 1998-99,Bihar,,Patna,Whole Year ,Sannhamp,Fiber Crops,5,3
+ 1998-99,Bihar,,Purbi Champaran,Whole Year ,Sannhamp,Fiber Crops,49,23
+ 1998-99,Jharkhand,,Ranchi,Whole Year ,Sannhamp,Fiber Crops,335,211
+ 1998-99,Bihar,,Rohtas,Whole Year ,Sannhamp,Fiber Crops,5,5
+ 1998-99,Bihar,,Saharsa,Whole Year ,Sannhamp,Fiber Crops,112,50
+ 1998-99,Bihar,,Samastipur,Whole Year ,Sannhamp,Fiber Crops,65,56
+ 1998-99,Bihar,,Sheikhpura,Whole Year ,Sannhamp,Fiber Crops,32,9
+ 1998-99,Bihar,,Sitamarhi,Whole Year ,Sannhamp,Fiber Crops,63,29
+ 1998-99,Bihar,,Siwan,Whole Year ,Sannhamp,Fiber Crops,315,233
+ 1998-99,Bihar,,Supaul,Whole Year ,Sannhamp,Fiber Crops,139,62
+ 1998-99,Jharkhand,,West Singhbhum,Whole Year ,Sannhamp,Fiber Crops,80,50
+ 1998-99,Bihar,,Araria,Kharif     ,Sesamum,Oilseeds,4,2
+ 1998-99,Bihar,,Aurangabad,Kharif     ,Sesamum,Oilseeds,345,180
+ 1998-99,Bihar,,Banka,Kharif     ,Sesamum,Oilseeds,35,18
+ 1998-99,Bihar,,Begusarai,Kharif     ,Sesamum,Oilseeds,16,8
+ 1998-99,Bihar,,Bhagalpur,Kharif     ,Sesamum,Oilseeds,12,6
+ 1998-99,Bihar,,Bhojpur,Kharif     ,Sesamum,Oilseeds,133,82
+ 1998-99,Jharkhand,,Bokaro,Kharif     ,Sesamum,Oilseeds,26,14
+ 1998-99,Jharkhand,,Chatra,Kharif     ,Sesamum,Oilseeds,279,146
+ 1998-99,Bihar,,Darbhanga,Kharif     ,Sesamum,Oilseeds,11,11
+ 1998-99,Bihar,,Deoghar,Kharif     ,Sesamum,Oilseeds,13,7
+ 1998-99,Bihar,,Dhanbad,Kharif     ,Sesamum,Oilseeds,3,2
+ 1998-99,Jharkhand,,Dumka,Kharif     ,Sesamum,Oilseeds,16,8
+ 1998-99,Bihar,,Garhwa,Kharif     ,Sesamum,Oilseeds,5457,4027
+ 1998-99,Bihar,,Gaya,Kharif     ,Sesamum,Oilseeds,490,256
+ 1998-99,Jharkhand,,Giridih,Kharif     ,Sesamum,Oilseeds,72,38
+ 1998-99,Jharkhand,,Godda,Kharif     ,Sesamum,Oilseeds,58,30
+ 1998-99,Bihar,,Gopalganj,Kharif     ,Sesamum,Oilseeds,2,1
+ 1998-99,Jharkhand,,Gumla,Kharif     ,Sesamum,Oilseeds,430,224
+ 1998-99,Jharkhand,,Hazaribagh,Kharif     ,Sesamum,Oilseeds,69,36
+ 1998-99,Bihar,,Jehanabad,Kharif     ,Sesamum,Oilseeds,30,16
+ 1998-99,Bihar,,Kaimur (Bhabua),Kharif     ,Sesamum,Oilseeds,104,64
+ 1998-99,Bihar,,Katihar,Kharif     ,Sesamum,Oilseeds,25,13
+ 1998-99,Bihar,,Khagaria,Kharif     ,Sesamum,Oilseeds,7,4
+ 1998-99,Bihar,,Kishanganj,Kharif     ,Sesamum,Oilseeds,1085,566
+ 1998-99,Jharkhand,,Koderma,Kharif     ,Sesamum,Oilseeds,48,25
+ 1998-99,Jharkhand,,Lohardaga,Kharif     ,Sesamum,Oilseeds,18,9
+ 1998-99,Bihar,,Madhepura,Kharif     ,Sesamum,Oilseeds,32,17
+ 1998-99,Bihar,,Madhubani,Kharif     ,Sesamum,Oilseeds,85,86
+ 1998-99,Bihar,,Muzaffarpur,Kharif     ,Sesamum,Oilseeds,21,11
+ 1998-99,Bihar,,Nalanda,Kharif     ,Sesamum,Oilseeds,12,7
+ 1998-99,Bihar,,Nawada,Kharif     ,Sesamum,Oilseeds,69,36
+ 1998-99,Jharkhand,,Pakur,Kharif     ,Sesamum,Oilseeds,19,10
+ 1998-99,Jharkhand,,Palamu,Kharif     ,Sesamum,Oilseeds,7563,2466
+ 1998-99,Bihar,,Pashchim Champaran,Kharif     ,Sesamum,Oilseeds,98,51
+ 1998-99,Bihar,,Purbi Champaran,Kharif     ,Sesamum,Oilseeds,373,195
+ 1998-99,Bihar,,Purnia,Kharif     ,Sesamum,Oilseeds,42,22
+ 1998-99,Jharkhand,,Ranchi,Kharif     ,Sesamum,Oilseeds,50,26
+ 1998-99,Bihar,,Rohtas,Kharif     ,Sesamum,Oilseeds,172,106
+ 1998-99,Bihar,,Saharsa,Kharif     ,Sesamum,Oilseeds,5,3
+ 1998-99,Jharkhand,,Sahebganj,Kharif     ,Sesamum,Oilseeds,33,17
+ 1998-99,Bihar,,Samastipur,Kharif     ,Sesamum,Oilseeds,445,451
+ 1998-99,Bihar,,Sheohar,Kharif     ,Sesamum,Oilseeds,37,19
+ 1998-99,Bihar,,Sitamarhi,Kharif     ,Sesamum,Oilseeds,12,6
+ 1998-99,Bihar,,Siwan,Kharif     ,Sesamum,Oilseeds,122,64
+ 1998-99,Bihar,,Supaul,Kharif     ,Sesamum,Oilseeds,265,138
+ 1998-99,Bihar,,Vaishali,Kharif     ,Sesamum,Oilseeds,18,9
+ 1998-99,Jharkhand,,West Singhbhum,Kharif     ,Sesamum,Oilseeds,4,2
+ 1998-99,Bihar,,Araria,Kharif     ,Small Millets,Cereals,313,292
+ 1998-99,Bihar,,Banka,Kharif     ,Small Millets,Cereals,9,5
+ 1998-99,Bihar,,Begusarai,Kharif     ,Small Millets,Cereals,229,194
+ 1998-99,Bihar,,Bhagalpur,Kharif     ,Small Millets,Cereals,182,170
+ 1998-99,Bihar,,Bhojpur,Kharif     ,Small Millets,Cereals,43,22
+ 1998-99,Jharkhand,,Bokaro,Kharif     ,Small Millets,Cereals,203,90
+ 1998-99,Jharkhand,,Chatra,Kharif     ,Small Millets,Cereals,254,114
+ 1998-99,Bihar,,Darbhanga,Kharif     ,Small Millets,Cereals,2,2
+ 1998-99,Bihar,,Deoghar,Kharif     ,Small Millets,Cereals,188,98
+ 1998-99,Bihar,,Dhanbad,Kharif     ,Small Millets,Cereals,94,42
+ 1998-99,Jharkhand,,Dumka,Kharif     ,Small Millets,Cereals,1257,654
+ 1998-99,Jharkhand,,East Singhbum,Kharif     ,Small Millets,Cereals,5,3
+ 1998-99,Bihar,,Garhwa,Kharif     ,Small Millets,Cereals,2524,1312
+ 1998-99,Jharkhand,,Giridih,Kharif     ,Small Millets,Cereals,923,411
+ 1998-99,Jharkhand,,Godda,Kharif     ,Small Millets,Cereals,360,187
+ 1998-99,Bihar,,Gopalganj,Kharif     ,Small Millets,Cereals,1056,1127
+ 1998-99,Jharkhand,,Gumla,Kharif     ,Small Millets,Cereals,7425,3861
+ 1998-99,Jharkhand,,Hazaribagh,Kharif     ,Small Millets,Cereals,473,210
+ 1998-99,Bihar,,Jehanabad,Kharif     ,Small Millets,Cereals,8,4
+ 1998-99,Bihar,,Kaimur (Bhabua),Kharif     ,Small Millets,Cereals,366,190
+ 1998-99,Bihar,,Katihar,Kharif     ,Small Millets,Cereals,99,92
+ 1998-99,Bihar,,Khagaria,Kharif     ,Small Millets,Cereals,1914,998
+ 1998-99,Bihar,,Kishanganj,Kharif     ,Small Millets,Cereals,35,21
+ 1998-99,Jharkhand,,Koderma,Kharif     ,Small Millets,Cereals,83,37
+ 1998-99,Bihar,,Lakhisarai,Kharif     ,Small Millets,Cereals,28,16
+ 1998-99,Jharkhand,,Lohardaga,Kharif     ,Small Millets,Cereals,569,296
+ 1998-99,Bihar,,Madhepura,Kharif     ,Small Millets,Cereals,208,131
+ 1998-99,Bihar,,Madhubani,Kharif     ,Small Millets,Cereals,208,209
+ 1998-99,Bihar,,Munger,Kharif     ,Small Millets,Cereals,6,3
+ 1998-99,Bihar,,Muzaffarpur,Kharif     ,Small Millets,Cereals,16,8
+ 1998-99,Bihar,,Nalanda,Kharif     ,Small Millets,Cereals,3,3
+ 1998-99,Bihar,,Nawada,Kharif     ,Small Millets,Cereals,1,1
+ 1998-99,Jharkhand,,Pakur,Kharif     ,Small Millets,Cereals,117,61
+ 1998-99,Jharkhand,,Palamu,Kharif     ,Small Millets,Cereals,4920,2558
+ 1998-99,Bihar,,Pashchim Champaran,Kharif     ,Small Millets,Cereals,213,66
+ 1998-99,Bihar,,Patna,Kharif     ,Small Millets,Cereals,5,5
+ 1998-99,Bihar,,Purbi Champaran,Kharif     ,Small Millets,Cereals,69,53
+ 1998-99,Jharkhand,,Ranchi,Kharif     ,Small Millets,Cereals,3958,2058
+ 1998-99,Bihar,,Rohtas,Kharif     ,Small Millets,Cereals,7,4
+ 1998-99,Bihar,,Saharsa,Kharif     ,Small Millets,Cereals,128,67
+ 1998-99,Jharkhand,,Sahebganj,Kharif     ,Small Millets,Cereals,105,56
+ 1998-99,Bihar,,Samastipur,Kharif     ,Small Millets,Cereals,187,143
+ 1998-99,Bihar,,Saran,Kharif     ,Small Millets,Cereals,1185,1117
+ 1998-99,Bihar,,Sheikhpura,Kharif     ,Small Millets,Cereals,8,4
+ 1998-99,Bihar,,Sheohar,Kharif     ,Small Millets,Cereals,10,4
+ 1998-99,Bihar,,Sitamarhi,Kharif     ,Small Millets,Cereals,128,55
+ 1998-99,Bihar,,Siwan,Kharif     ,Small Millets,Cereals,1252,947
+ 1998-99,Bihar,,Supaul,Kharif     ,Small Millets,Cereals,32,30
+ 1998-99,Bihar,,Vaishali,Kharif     ,Small Millets,Cereals,398,179
+ 1998-99,Jharkhand,,West Singhbhum,Kharif     ,Small Millets,Cereals,222,115
+ 1998-99,Bihar,,Araria,Whole Year ,Sugarcane,Sugar,77,3146
+ 1998-99,Bihar,,Aurangabad,Whole Year ,Sugarcane,Sugar,556,28873
+ 1998-99,Bihar,,Banka,Whole Year ,Sugarcane,Sugar,945,46902
+ 1998-99,Bihar,,Begusarai,Whole Year ,Sugarcane,Sugar,1876,93948
+ 1998-99,Bihar,,Bhagalpur,Whole Year ,Sugarcane,Sugar,2231,90256
+ 1998-99,Bihar,,Bhojpur,Whole Year ,Sugarcane,Sugar,310,7073
+ 1998-99,Bihar,,Buxar,Whole Year ,Sugarcane,Sugar,396,9752
+ 1998-99,Jharkhand,,Chatra,Whole Year ,Sugarcane,Sugar,642,19322
+ 1998-99,Bihar,,Darbhanga,Whole Year ,Sugarcane,Sugar,1492,33580
+ 1998-99,Jharkhand,,Dumka,Whole Year ,Sugarcane,Sugar,2,98
+ 1998-99,Bihar,,Garhwa,Whole Year ,Sugarcane,Sugar,140,2118
+ 1998-99,Bihar,,Gaya,Whole Year ,Sugarcane,Sugar,2155,111909
+ 1998-99,Jharkhand,,Giridih,Whole Year ,Sugarcane,Sugar,15,585
+ 1998-99,Jharkhand,,Godda,Whole Year ,Sugarcane,Sugar,98,4584
+ 1998-99,Bihar,,Gopalganj,Whole Year ,Sugarcane,Sugar,15562,798697
+ 1998-99,Jharkhand,,Hazaribagh,Whole Year ,Sugarcane,Sugar,640,19262
+ 1998-99,Bihar,,Jamui,Whole Year ,Sugarcane,Sugar,626,30927
+ 1998-99,Bihar,,Jehanabad,Whole Year ,Sugarcane,Sugar,330,17137
+ 1998-99,Bihar,,Kaimur (Bhabua),Whole Year ,Sugarcane,Sugar,889,19504
+ 1998-99,Bihar,,Katihar,Whole Year ,Sugarcane,Sugar,2,82
+ 1998-99,Bihar,,Khagaria,Whole Year ,Sugarcane,Sugar,144,7272
+ 1998-99,Bihar,,Kishanganj,Whole Year ,Sugarcane,Sugar,19,776
+ 1998-99,Jharkhand,,Koderma,Whole Year ,Sugarcane,Sugar,306,9210
+ 1998-99,Jharkhand,,Lohardaga,Whole Year ,Sugarcane,Sugar,50,2339
+ 1998-99,Bihar,,Madhepura,Whole Year ,Sugarcane,Sugar,618,29932
+ 1998-99,Bihar,,Madhubani,Whole Year ,Sugarcane,Sugar,1188,34972
+ 1998-99,Bihar,,Munger,Whole Year ,Sugarcane,Sugar,12,591
+ 1998-99,Bihar,,Muzaffarpur,Whole Year ,Sugarcane,Sugar,1557,59183
+ 1998-99,Bihar,,Nalanda,Whole Year ,Sugarcane,Sugar,85,2387
+ 1998-99,Bihar,,Nawada,Whole Year ,Sugarcane,Sugar,190,9867
+ 1998-99,Jharkhand,,Pakur,Whole Year ,Sugarcane,Sugar,4,187
+ 1998-99,Jharkhand,,Palamu,Whole Year ,Sugarcane,Sugar,685,10365
+ 1998-99,Bihar,,Pashchim Champaran,Whole Year ,Sugarcane,Sugar,45575,2401131
+ 1998-99,Bihar,,Patna,Whole Year ,Sugarcane,Sugar,380,8930
+ 1998-99,Bihar,,Purbi Champaran,Whole Year ,Sugarcane,Sugar,10705,497233
+ 1998-99,Bihar,,Purnia,Whole Year ,Sugarcane,Sugar,292,11930
+ 1998-99,Bihar,,Rohtas,Whole Year ,Sugarcane,Sugar,597,13696
+ 1998-99,Bihar,,Saharsa,Whole Year ,Sugarcane,Sugar,51,2452
+ 1998-99,Bihar,,Samastipur,Whole Year ,Sugarcane,Sugar,2914,78806
+ 1998-99,Bihar,,Saran,Whole Year ,Sugarcane,Sugar,286,9789
+ 1998-99,Bihar,,Sheikhpura,Whole Year ,Sugarcane,Sugar,64,3227
+ 1998-99,Bihar,,Sheohar,Whole Year ,Sugarcane,Sugar,1347,64049
+ 1998-99,Bihar,,Sitamarhi,Whole Year ,Sugarcane,Sugar,4207,163518
+ 1998-99,Bihar,,Siwan,Whole Year ,Sugarcane,Sugar,6491,337710
+ 1998-99,Bihar,,Supaul,Whole Year ,Sugarcane,Sugar,2,94
+ 1998-99,Bihar,,Vaishali,Whole Year ,Sugarcane,Sugar,182,3665
+ 1998-99,Bihar,,Araria,Kharif     ,Sunflower,Oilseeds,2316,1297
+ 1998-99,Bihar,,Aurangabad,Kharif     ,Sunflower,Oilseeds,6,6
+ 1998-99,Bihar,,Begusarai,Kharif     ,Sunflower,Oilseeds,940,867
+ 1998-99,Bihar,,Bhagalpur,Kharif     ,Sunflower,Oilseeds,759,599
+ 1998-99,Bihar,,Buxar,Kharif     ,Sunflower,Oilseeds,39,31
+ 1998-99,Jharkhand,,Chatra,Kharif     ,Sunflower,Oilseeds,30,24
+ 1998-99,Bihar,,Garhwa,Kharif     ,Sunflower,Oilseeds,562,443
+ 1998-99,Bihar,,Gaya,Kharif     ,Sunflower,Oilseeds,31,29
+ 1998-99,Jharkhand,,Godda,Kharif     ,Sunflower,Oilseeds,11,9
+ 1998-99,Bihar,,Gopalganj,Kharif     ,Sunflower,Oilseeds,8,6
+ 1998-99,Jharkhand,,Gumla,Kharif     ,Sunflower,Oilseeds,4,3
+ 1998-99,Jharkhand,,Hazaribagh,Kharif     ,Sunflower,Oilseeds,12,9
+ 1998-99,Bihar,,Jehanabad,Kharif     ,Sunflower,Oilseeds,48,45
+ 1998-99,Bihar,,Kaimur (Bhabua),Kharif     ,Sunflower,Oilseeds,7,6
+ 1998-99,Bihar,,Katihar,Kharif     ,Sunflower,Oilseeds,1334,714
+ 1998-99,Bihar,,Khagaria,Kharif     ,Sunflower,Oilseeds,2382,2196
+ 1998-99,Bihar,,Kishanganj,Kharif     ,Sunflower,Oilseeds,26,14
+ 1998-99,Jharkhand,,Lohardaga,Kharif     ,Sunflower,Oilseeds,22,17
+ 1998-99,Bihar,,Madhepura,Kharif     ,Sunflower,Oilseeds,4094,3541
+ 1998-99,Bihar,,Madhubani,Kharif     ,Sunflower,Oilseeds,8,5
+ 1998-99,Bihar,,Munger,Kharif     ,Sunflower,Oilseeds,6,6
+ 1998-99,Bihar,,Muzaffarpur,Kharif     ,Sunflower,Oilseeds,23,30
+ 1998-99,Bihar,,Nalanda,Kharif     ,Sunflower,Oilseeds,250,197
+ 1998-99,Bihar,,Nawada,Kharif     ,Sunflower,Oilseeds,132,125
+ 1998-99,Jharkhand,,Palamu,Kharif     ,Sunflower,Oilseeds,13,10
+ 1998-99,Bihar,,Pashchim Champaran,Kharif     ,Sunflower,Oilseeds,113,147
+ 1998-99,Bihar,,Patna,Kharif     ,Sunflower,Oilseeds,42,33
+ 1998-99,Bihar,,Purbi Champaran,Kharif     ,Sunflower,Oilseeds,136,177
+ 1998-99,Bihar,,Purnia,Kharif     ,Sunflower,Oilseeds,1927,971
+ 1998-99,Jharkhand,,Ranchi,Kharif     ,Sunflower,Oilseeds,3,2
+ 1998-99,Bihar,,Rohtas,Kharif     ,Sunflower,Oilseeds,10,8
+ 1998-99,Bihar,,Saharsa,Kharif     ,Sunflower,Oilseeds,2165,1873
+ 1998-99,Bihar,,Samastipur,Kharif     ,Sunflower,Oilseeds,354,217
+ 1998-99,Bihar,,Saran,Kharif     ,Sunflower,Oilseeds,4,3
+ 1998-99,Bihar,,Sheikhpura,Kharif     ,Sunflower,Oilseeds,15,14
+ 1998-99,Bihar,,Sitamarhi,Kharif     ,Sunflower,Oilseeds,9,12
+ 1998-99,Bihar,,Siwan,Kharif     ,Sunflower,Oilseeds,36,28
+ 1998-99,Bihar,,Supaul,Kharif     ,Sunflower,Oilseeds,4985,4312
+ 1998-99,Bihar,,Vaishali,Kharif     ,Sunflower,Oilseeds,7,9
+ 1998-99,Jharkhand,,West Singhbhum,Kharif     ,Sunflower,Oilseeds,1,1
+ 1998-99,Bihar,,Araria,Whole Year ,Sweet Potato,Vegetable,1143,12356
+ 1998-99,Bihar,,Aurangabad,Whole Year ,Sweet Potato,Vegetable,92,995
+ 1998-99,Bihar,,Begusarai,Whole Year ,Sweet Potato,Vegetable,413,5712
+ 1998-99,Bihar,,Bhagalpur,Whole Year ,Sweet Potato,Vegetable,20,216
+ 1998-99,Bihar,,Bhojpur,Whole Year ,Sweet Potato,Vegetable,1,11
+ 1998-99,Jharkhand,,Bokaro,Whole Year ,Sweet Potato,Vegetable,14,151
+ 1998-99,Bihar,,Darbhanga,Whole Year ,Sweet Potato,Vegetable,236,2551
+ 1998-99,Jharkhand,,Dumka,Whole Year ,Sweet Potato,Vegetable,29,313
+ 1998-99,Bihar,,Garhwa,Whole Year ,Sweet Potato,Vegetable,60,649
+ 1998-99,Bihar,,Gaya,Whole Year ,Sweet Potato,Vegetable,14,151
+ 1998-99,Jharkhand,,Godda,Whole Year ,Sweet Potato,Vegetable,206,2227
+ 1998-99,Bihar,,Gopalganj,Whole Year ,Sweet Potato,Vegetable,179,1935
+ 1998-99,Jharkhand,,Gumla,Whole Year ,Sweet Potato,Vegetable,3885,41997
+ 1998-99,Jharkhand,,Hazaribagh,Whole Year ,Sweet Potato,Vegetable,1939,20961
+ 1998-99,Bihar,,Kaimur (Bhabua),Whole Year ,Sweet Potato,Vegetable,3,32
+ 1998-99,Bihar,,Katihar,Whole Year ,Sweet Potato,Vegetable,38,411
+ 1998-99,Bihar,,Khagaria,Whole Year ,Sweet Potato,Vegetable,106,1466
+ 1998-99,Bihar,,Kishanganj,Whole Year ,Sweet Potato,Vegetable,115,1243
+ 1998-99,Bihar,,Lakhisarai,Whole Year ,Sweet Potato,Vegetable,23,318
+ 1998-99,Jharkhand,,Lohardaga,Whole Year ,Sweet Potato,Vegetable,275,2973
+ 1998-99,Bihar,,Madhepura,Whole Year ,Sweet Potato,Vegetable,1555,15370
+ 1998-99,Bihar,,Madhubani,Whole Year ,Sweet Potato,Vegetable,698,7545
+ 1998-99,Bihar,,Munger,Whole Year ,Sweet Potato,Vegetable,168,2323
+ 1998-99,Bihar,,Muzaffarpur,Whole Year ,Sweet Potato,Vegetable,480,5189
+ 1998-99,Bihar,,Nawada,Whole Year ,Sweet Potato,Vegetable,7,76
+ 1998-99,Jharkhand,,Palamu,Whole Year ,Sweet Potato,Vegetable,27,292
+ 1998-99,Bihar,,Patna,Whole Year ,Sweet Potato,Vegetable,5,54
+ 1998-99,Bihar,,Purbi Champaran,Whole Year ,Sweet Potato,Vegetable,503,5437
+ 1998-99,Bihar,,Purnia,Whole Year ,Sweet Potato,Vegetable,105,1135
+ 1998-99,Jharkhand,,Ranchi,Whole Year ,Sweet Potato,Vegetable,2316,25036
+ 1998-99,Bihar,,Rohtas,Whole Year ,Sweet Potato,Vegetable,13,141
+ 1998-99,Bihar,,Saharsa,Whole Year ,Sweet Potato,Vegetable,20,198
+ 1998-99,Bihar,,Samastipur,Whole Year ,Sweet Potato,Vegetable,691,7470
+ 1998-99,Bihar,,Saran,Whole Year ,Sweet Potato,Vegetable,68,735
+ 1998-99,Bihar,,Sheohar,Whole Year ,Sweet Potato,Vegetable,56,605
+ 1998-99,Bihar,,Sitamarhi,Whole Year ,Sweet Potato,Vegetable,413,4465
+ 1998-99,Bihar,,Siwan,Whole Year ,Sweet Potato,Vegetable,210,2270
+ 1998-99,Bihar,,Supaul,Whole Year ,Sweet Potato,Vegetable,741,7324
+ 1998-99,Bihar,,Vaishali,Whole Year ,Sweet Potato,Vegetable,811,8767
+ 1998-99,Jharkhand,,West Singhbhum,Whole Year ,Sweet Potato,Vegetable,247,2670
+ 1998-99,Bihar,,Begusarai,Whole Year ,Tobacco,Drugs And Narcotics,35,52
+ 1998-99,Bihar,,Bhagalpur,Whole Year ,Tobacco,Drugs And Narcotics,25,19
+ 1998-99,Bihar,,Darbhanga,Whole Year ,Tobacco,Drugs And Narcotics,18,14
+ 1998-99,Jharkhand,,Dumka,Whole Year ,Tobacco,Drugs And Narcotics,1,1
+ 1998-99,Bihar,,Gopalganj,Whole Year ,Tobacco,Drugs And Narcotics,73,50
+ 1998-99,Bihar,,Kaimur (Bhabua),Whole Year ,Tobacco,Drugs And Narcotics,15,11
+ 1998-99,Bihar,,Katihar,Whole Year ,Tobacco,Drugs And Narcotics,126,96
+ 1998-99,Bihar,,Kishanganj,Whole Year ,Tobacco,Drugs And Narcotics,257,196
+ 1998-99,Jharkhand,,Lohardaga,Whole Year ,Tobacco,Drugs And Narcotics,1,1
+ 1998-99,Bihar,,Madhubani,Whole Year ,Tobacco,Drugs And Narcotics,50,38
+ 1998-99,Bihar,,Muzaffarpur,Whole Year ,Tobacco,Drugs And Narcotics,755,576
+ 1998-99,Bihar,,Purnia,Whole Year ,Tobacco,Drugs And Narcotics,133,101
+ 1998-99,Jharkhand,,Ranchi,Whole Year ,Tobacco,Drugs And Narcotics,11,8
+ 1998-99,Bihar,,Samastipur,Whole Year ,Tobacco,Drugs And Narcotics,7506,5727
+ 1998-99,Bihar,,Sheohar,Whole Year ,Tobacco,Drugs And Narcotics,54,41
+ 1998-99,Bihar,,Sitamarhi,Whole Year ,Tobacco,Drugs And Narcotics,259,198
+ 1998-99,Bihar,,Siwan,Whole Year ,Tobacco,Drugs And Narcotics,230,156
+ 1998-99,Bihar,,Vaishali,Whole Year ,Tobacco,Drugs And Narcotics,7988,6095
+ 1998-99,Bihar,,Araria,Whole Year ,Turmeric,Spices,88,141
+ 1998-99,Bihar,,Aurangabad,Whole Year ,Turmeric,Spices,3,3
+ 1998-99,Bihar,,Begusarai,Whole Year ,Turmeric,Spices,332,192
+ 1998-99,Bihar,,Bhagalpur,Whole Year ,Turmeric,Spices,85,91
+ 1998-99,Bihar,,Darbhanga,Whole Year ,Turmeric,Spices,7,4
+ 1998-99,Bihar,,Gopalganj,Whole Year ,Turmeric,Spices,4,5
+ 1998-99,Bihar,,Kaimur (Bhabua),Whole Year ,Turmeric,Spices,13,14
+ 1998-99,Bihar,,Katihar,Whole Year ,Turmeric,Spices,12,23
+ 1998-99,Bihar,,Khagaria,Whole Year ,Turmeric,Spices,41,24
+ 1998-99,Bihar,,Kishanganj,Whole Year ,Turmeric,Spices,147,279
+ 1998-99,Bihar,,Madhepura,Whole Year ,Turmeric,Spices,44,47
+ 1998-99,Bihar,,Madhubani,Whole Year ,Turmeric,Spices,9,9
+ 1998-99,Bihar,,Muzaffarpur,Whole Year ,Turmeric,Spices,145,141
+ 1998-99,Jharkhand,,Palamu,Whole Year ,Turmeric,Spices,1,1
+ 1998-99,Bihar,,Pashchim Champaran,Whole Year ,Turmeric,Spices,83,81
+ 1998-99,Bihar,,Purbi Champaran,Whole Year ,Turmeric,Spices,362,352
+ 1998-99,Bihar,,Purnia,Whole Year ,Turmeric,Spices,142,282
+ 1998-99,Jharkhand,,Ranchi,Whole Year ,Turmeric,Spices,2,2
+ 1998-99,Bihar,,Rohtas,Whole Year ,Turmeric,Spices,1,1
+ 1998-99,Bihar,,Saharsa,Whole Year ,Turmeric,Spices,10,11
+ 1998-99,Bihar,,Samastipur,Whole Year ,Turmeric,Spices,1292,1276
+ 1998-99,Bihar,,Sheohar,Whole Year ,Turmeric,Spices,8,8
+ 1998-99,Bihar,,Sitamarhi,Whole Year ,Turmeric,Spices,43,42
+ 1998-99,Bihar,,Siwan,Whole Year ,Turmeric,Spices,69,92
+ 1998-99,Bihar,,Supaul,Whole Year ,Turmeric,Spices,89,95
+ 1998-99,Bihar,,Vaishali,Whole Year ,Turmeric,Spices,74,72
+ 1998-99,Bihar,,Araria,Kharif     ,Urad,Pulses,1174,881
+ 1998-99,Bihar,,Aurangabad,Kharif     ,Urad,Pulses,26,18
+ 1998-99,Bihar,,Banka,Kharif     ,Urad,Pulses,6,5
+ 1998-99,Bihar,,Begusarai,Kharif     ,Urad,Pulses,587,412
+ 1998-99,Bihar,,Bhagalpur,Kharif     ,Urad,Pulses,6682,5025
+ 1998-99,Bihar,,Darbhanga,Kharif     ,Urad,Pulses,112,83
+ 1998-99,Bihar,,Gaya,Kharif     ,Urad,Pulses,242,168
+ 1998-99,Bihar,,Gopalganj,Kharif     ,Urad,Pulses,332,247
+ 1998-99,Bihar,,Jamui,Kharif     ,Urad,Pulses,16,11
+ 1998-99,Bihar,,Jehanabad,Kharif     ,Urad,Pulses,62,46
+ 1998-99,Bihar,,Kaimur (Bhabua),Kharif     ,Urad,Pulses,147,128
+ 1998-99,Bihar,,Katihar,Kharif     ,Urad,Pulses,4107,3092
+ 1998-99,Bihar,,Khagaria,Kharif     ,Urad,Pulses,3829,2787
+ 1998-99,Bihar,,Kishanganj,Kharif     ,Urad,Pulses,473,356
+ 1998-99,Bihar,,Madhepura,Kharif     ,Urad,Pulses,422,318
+ 1998-99,Bihar,,Madhubani,Kharif     ,Urad,Pulses,914,678
+ 1998-99,Bihar,,Munger,Kharif     ,Urad,Pulses,113,80
+ 1998-99,Bihar,,Muzaffarpur,Kharif     ,Urad,Pulses,653,419
+ 1998-99,Bihar,,Nawada,Kharif     ,Urad,Pulses,141,96
+ 1998-99,Bihar,,Pashchim Champaran,Kharif     ,Urad,Pulses,217,189
+ 1998-99,Bihar,,Patna,Kharif     ,Urad,Pulses,5,5
+ 1998-99,Bihar,,Purbi Champaran,Kharif     ,Urad,Pulses,82,52
+ 1998-99,Bihar,,Purnia,Kharif     ,Urad,Pulses,118,89
+ 1998-99,Bihar,,Rohtas,Kharif     ,Urad,Pulses,63,54
+ 1998-99,Bihar,,Saharsa,Kharif     ,Urad,Pulses,1397,1040
+ 1998-99,Bihar,,Samastipur,Kharif     ,Urad,Pulses,1255,891
+ 1998-99,Bihar,,Saran,Kharif     ,Urad,Pulses,179,133
+ 1998-99,Bihar,,Sitamarhi,Kharif     ,Urad,Pulses,84,72
+ 1998-99,Bihar,,Siwan,Kharif     ,Urad,Pulses,271,201
+ 1998-99,Bihar,,Supaul,Kharif     ,Urad,Pulses,639,464
+ 1998-99,Bihar,,Vaishali,Kharif     ,Urad,Pulses,768,561
+ 1998-99,Bihar,,Araria,Rabi       ,Wheat,Cereals,46331,77310
+ 1998-99,Bihar,,Aurangabad,Rabi       ,Wheat,Cereals,52265,120615
+ 1998-99,Bihar,,Banka,Rabi       ,Wheat,Cereals,27786,37804
+ 1998-99,Bihar,,Begusarai,Rabi       ,Wheat,Cereals,57520,118548
+ 1998-99,Bihar,,Bhagalpur,Rabi       ,Wheat,Cereals,43106,92403
+ 1998-99,Bihar,,Bhojpur,Rabi       ,Wheat,Cereals,70699,160409
+ 1998-99,Jharkhand,,Bokaro,Rabi       ,Wheat,Cereals,621,819
+ 1998-99,Bihar,,Buxar,Rabi       ,Wheat,Cereals,66625,156956
+ 1998-99,Jharkhand,,Chatra,Rabi       ,Wheat,Cereals,5212,6897
+ 1998-99,Bihar,,Darbhanga,Rabi       ,Wheat,Cereals,60417,105933
+ 1998-99,Bihar,,Deoghar,Rabi       ,Wheat,Cereals,4360,8026
+ 1998-99,Bihar,,Dhanbad,Rabi       ,Wheat,Cereals,800,1592
+ 1998-99,Jharkhand,,Dumka,Rabi       ,Wheat,Cereals,4996,9564
+ 1998-99,Jharkhand,,East Singhbum,Rabi       ,Wheat,Cereals,270,454
+ 1998-99,Bihar,,Garhwa,Rabi       ,Wheat,Cereals,7970,11330
+ 1998-99,Bihar,,Gaya,Rabi       ,Wheat,Cereals,49192,101350
+ 1998-99,Jharkhand,,Giridih,Rabi       ,Wheat,Cereals,4630,5546
+ 1998-99,Jharkhand,,Godda,Rabi       ,Wheat,Cereals,8667,15404
+ 1998-99,Bihar,,Gopalganj,Rabi       ,Wheat,Cereals,90266,209423
+ 1998-99,Jharkhand,,Gumla,Rabi       ,Wheat,Cereals,1724,2336
+ 1998-99,Jharkhand,,Hazaribagh,Rabi       ,Wheat,Cereals,5047,10313
+ 1998-99,Bihar,,Jamui,Rabi       ,Wheat,Cereals,20253,24345
+ 1998-99,Bihar,,Jehanabad,Rabi       ,Wheat,Cereals,42421,103444
+ 1998-99,Bihar,,Kaimur (Bhabua),Rabi       ,Wheat,Cereals,63164,150192
+ 1998-99,Bihar,,Katihar,Rabi       ,Wheat,Cereals,36282,73436
+ 1998-99,Bihar,,Khagaria,Rabi       ,Wheat,Cereals,33653,62533
+ 1998-99,Bihar,,Kishanganj,Rabi       ,Wheat,Cereals,19240,35172
+ 1998-99,Jharkhand,,Koderma,Rabi       ,Wheat,Cereals,1401,2187
+ 1998-99,Bihar,,Lakhisarai,Rabi       ,Wheat,Cereals,27765,37702
+ 1998-99,Jharkhand,,Lohardaga,Rabi       ,Wheat,Cereals,1889,2958
+ 1998-99,Bihar,,Madhepura,Rabi       ,Wheat,Cereals,37702,75206
+ 1998-99,Bihar,,Madhubani,Rabi       ,Wheat,Cereals,64510,105388
+ 1998-99,Bihar,,Munger,Rabi       ,Wheat,Cereals,16727,25236
+ 1998-99,Bihar,,Muzaffarpur,Rabi       ,Wheat,Cereals,86637,206699
+ 1998-99,Bihar,,Nalanda,Rabi       ,Wheat,Cereals,85011,211283
+ 1998-99,Bihar,,Nawada,Rabi       ,Wheat,Cereals,47841,100549
+ 1998-99,Jharkhand,,Pakur,Rabi       ,Wheat,Cereals,1540,2462
+ 1998-99,Jharkhand,,Palamu,Rabi       ,Wheat,Cereals,12978,18307
+ 1998-99,Bihar,,Pashchim Champaran,Rabi       ,Wheat,Cereals,81329,191380
+ 1998-99,Bihar,,Patna,Rabi       ,Wheat,Cereals,62838,157981
+ 1998-99,Bihar,,Purbi Champaran,Rabi       ,Wheat,Cereals,112284,219833
+ 1998-99,Bihar,,Purnia,Rabi       ,Wheat,Cereals,54728,103573
+ 1998-99,Jharkhand,,Ranchi,Rabi       ,Wheat,Cereals,3760,7756
+ 1998-99,Bihar,,Rohtas,Rabi       ,Wheat,Cereals,121036,266360
+ 1998-99,Bihar,,Saharsa,Rabi       ,Wheat,Cereals,50608,83620
+ 1998-99,Jharkhand,,Sahebganj,Rabi       ,Wheat,Cereals,2382,4936
+ 1998-99,Bihar,,Samastipur,Rabi       ,Wheat,Cereals,51874,108796
+ 1998-99,Bihar,,Saran,Rabi       ,Wheat,Cereals,88696,220061
+ 1998-99,Bihar,,Sheikhpura,Rabi       ,Wheat,Cereals,21487,44376
+ 1998-99,Bihar,,Sheohar,Rabi       ,Wheat,Cereals,11874,19040
+ 1998-99,Bihar,,Sitamarhi,Rabi       ,Wheat,Cereals,56547,92761
+ 1998-99,Bihar,,Siwan,Rabi       ,Wheat,Cereals,99028,205354
+ 1998-99,Bihar,,Supaul,Rabi       ,Wheat,Cereals,49758,72277
+ 1998-99,Bihar,,Vaishali,Rabi       ,Wheat,Cereals,45231,114786
+ 1998-99,Jharkhand,,West Singhbhum,Rabi       ,Wheat,Cereals,357,634
+ 1998-99,Chandigarh,,Chandigarh,Kharif     ,Arhar/Tur,Pulses,8,8
+ 1998-99,Chandigarh,,Chandigarh,Rabi       ,Gram,Pulses,4,4
+ 1998-99,Chandigarh,,Chandigarh,Kharif     ,Maize,Cereals,380,1330
+ 1998-99,Chandigarh,,Chandigarh,Rabi       ,Masoor,Pulses,2,3
+ 1998-99,Chandigarh,,Chandigarh,Kharif     ,Moong(Green Gram),Pulses,3,3
+ 1998-99,Chandigarh,,Chandigarh,Whole Year ,Onion,Vegetable,18,450
+ 1998-99,Chandigarh,,Chandigarh,Whole Year ,Potato,Vegetable,130,3250
+ 1998-99,Chandigarh,,Chandigarh,Rabi       ,Rapeseed &Mustard,Oilseeds,120,130
+ 1998-99,Chandigarh,,Chandigarh,Kharif     ,Rice,Cereals,120,360
+ 1998-99,Chandigarh,,Chandigarh,Kharif     ,Urad,Pulses,12,10
+ 1998-99,Chandigarh,,Chandigarh,Rabi       ,Wheat,Cereals,880,3960
+ 1998-99,The Dadra And Nagar Haveli And Daman And Diu,,Chandigarh,Kharif     ,Wheat,Cereals,280,397
+ 1998-99,The Dadra And Nagar Haveli And Daman And Diu,,Chandigarh,Kharif     ,Wheat,Cereals,2000,2149
+ 1998-99,Delhi,,Chandigarh,Kharif     ,Wheat,Cereals,2595,2091
+ 1998-99,Delhi,,Chandigarh,Kharif     ,Wheat,Cereals,305,83
+ 1998-99,Delhi,,Chandigarh,Kharif     ,Wheat,Cereals,1,1
+ 1998-99,Delhi,,Chandigarh,Rabi       ,Wheat,Cereals,152,36
+ 1998-99,Delhi,,Chandigarh,Kharif     ,Wheat,Cereals,9052,4058
+ 1998-99,Delhi,,Chandigarh,Kharif     ,Wheat,Cereals,165,132
+ 1998-99,Delhi,,Chandigarh,Whole Year ,Wheat,Cereals,142,1048
+ 1998-99,Delhi,,Chandigarh,Kharif     ,Wheat,Cereals,7303,10799
+ 1998-99,Delhi,,Chandigarh,Whole Year ,Wheat,Cereals,5,300
+ 1998-99,Delhi,,Chandigarh,Rabi       ,Wheat,Cereals,31037,107729
+ 1998-99,Goa,,Chandigarh,Whole Year ,Wheat,Cereals,1500,1820
+ 1998-99,Goa,,Chandigarh,Whole Year ,Wheat,Cereals,1900,14400
+ 1998-99,Goa,,Chandigarh,Whole Year ,Wheat,Cereals,250,70
+ 1998-99,Goa,,Chandigarh,Whole Year ,Wheat,Cereals,52875,15000
+ 1998-99,Goa,,Chandigarh,Whole Year ,Wheat,Cereals,24858,121000000
+ 1998-99,Goa,,Chandigarh,Kharif     ,Wheat,Cereals,350,412
+ 1998-99,Goa,,Chandigarh,Rabi       ,Wheat,Cereals,1048,2124
+ 1998-99,Goa,,Chandigarh,Kharif     ,Wheat,Cereals,300,1200
+ 1998-99,Goa,,Chandigarh,Rabi       ,Wheat,Cereals,8671,9220
+ 1998-99,Goa,,Chandigarh,Kharif     ,Wheat,Cereals,1200,324
+ 1998-99,Goa,,Chandigarh,Kharif     ,Wheat,Cereals,2500,2476
+ 1998-99,Goa,,Chandigarh,Kharif     ,Wheat,Cereals,41000,104249
+ 1998-99,Goa,,Chandigarh,Rabi       ,Wheat,Cereals,15439,46925
+ 1998-99,Goa,,Chandigarh,Whole Year ,Wheat,Cereals,1320,64000
+ 1998-99,Gujarat,,Ahmadabad,Kharif     ,Arhar/Tur,Pulses,3300,3100
+ 1998-99,Gujarat,,Amreli,Kharif     ,Arhar/Tur,Pulses,1300,1200
+ 1998-99,Gujarat,,Banas Kantha,Kharif     ,Arhar/Tur,Pulses,5600,5300
+ 1998-99,Gujarat,,Bharuch,Kharif     ,Arhar/Tur,Pulses,92800,58600
+ 1998-99,Gujarat,,Bhavnagar,Kharif     ,Arhar/Tur,Pulses,2000,1900
+ 1998-99,Gujarat,,Dang,Kharif     ,Arhar/Tur,Pulses,4100,3900
+ 1998-99,Gujarat,,Gandhinagar,Kharif     ,Arhar/Tur,Pulses,200,200
+ 1998-99,Gujarat,,Jamnagar,Kharif     ,Arhar/Tur,Pulses,6900,6500
+ 1998-99,Gujarat,,Junagadh,Kharif     ,Arhar/Tur,Pulses,3300,3200
+ 1998-99,Gujarat,,Kheda,Kharif     ,Arhar/Tur,Pulses,12200,19600
+ 1998-99,Gujarat,,Mahesana,Kharif     ,Arhar/Tur,Pulses,1900,1800
+ 1998-99,Gujarat,,Panch Mahals,Kharif     ,Arhar/Tur,Pulses,45600,62300
+ 1998-99,Gujarat,,Rajkot,Kharif     ,Arhar/Tur,Pulses,2000,1900
+ 1998-99,Gujarat,,Sabar Kantha,Kharif     ,Arhar/Tur,Pulses,51000,55600
+ 1998-99,Gujarat,,Surat,Kharif     ,Arhar/Tur,Pulses,21300,25600
+ 1998-99,Gujarat,,Surendranagar,Kharif     ,Arhar/Tur,Pulses,400,400
+ 1998-99,Gujarat,,Vadodara,Kharif     ,Arhar/Tur,Pulses,99900,85600
+ 1998-99,Gujarat,,Valsad,Kharif     ,Arhar/Tur,Pulses,6300,6000
+ 1998-99,Gujarat,,Ahmadabad,Kharif     ,Bajra,Cereals,37300,43700
+ 1998-99,Gujarat,,Ahmadabad,Summer     ,Bajra,Cereals,11100,22600
+ 1998-99,Gujarat,,Amreli,Kharif     ,Bajra,Cereals,48600,94700
+ 1998-99,Gujarat,,Amreli,Summer     ,Bajra,Cereals,300,800
+ 1998-99,Gujarat,,Banas Kantha,Kharif     ,Bajra,Cereals,194700,51200
+ 1998-99,Gujarat,,Banas Kantha,Summer     ,Bajra,Cereals,36300,88200
+ 1998-99,Gujarat,,Bharuch,Kharif     ,Bajra,Cereals,3500,3500
+ 1998-99,Gujarat,,Bharuch,Summer     ,Bajra,Cereals,500,1100
+ 1998-99,Madhya Pradesh,,Mandsaur,Whole Year ,Sugarcane,Sugar,55,1730
+ 1998-99,Madhya Pradesh,,Morena,Whole Year ,Sugarcane,Sugar,4742,112530
+ 1998-99,Madhya Pradesh,,Narsinghpur,Whole Year ,Sugarcane,Sugar,8016,204000
+ 1998-99,Madhya Pradesh,,Neemuch,Whole Year ,Sugarcane,Sugar,62,2300
+ 1998-99,Madhya Pradesh,,Panna,Whole Year ,Sugarcane,Sugar,286,1440
+ 1998-99,Madhya Pradesh,,Raipur,Whole Year ,Sugarcane,Sugar,137,2310
+ 1998-99,Madhya Pradesh,,Raisen,Whole Year ,Sugarcane,Sugar,63,1020
+ 1998-99,Madhya Pradesh,,Rajgarh,Whole Year ,Sugarcane,Sugar,955,17800
+ 1998-99,Madhya Pradesh,,Rajnandgaon,Whole Year ,Sugarcane,Sugar,21,280
+ 1998-99,Madhya Pradesh,,Ratlam,Whole Year ,Sugarcane,Sugar,848,33600
+ 1998-99,Madhya Pradesh,,Rewa,Whole Year ,Sugarcane,Sugar,74,1360
+ 1998-99,Madhya Pradesh,,Sagar,Whole Year ,Sugarcane,Sugar,219,4410
+ 1998-99,Madhya Pradesh,,Satna,Whole Year ,Sugarcane,Sugar,187,2580
+ 1998-99,Madhya Pradesh,,Sehore,Whole Year ,Sugarcane,Sugar,4805,91730
+ 1998-99,Madhya Pradesh,,Seoni,Whole Year ,Sugarcane,Sugar,947,19610
+ 1998-99,Madhya Pradesh,,Shahdol,Whole Year ,Sugarcane,Sugar,28,300
+ 1998-99,Madhya Pradesh,,Shajapur,Whole Year ,Sugarcane,Sugar,1447,39600
+ 1998-99,Madhya Pradesh,,Sheopur,Whole Year ,Sugarcane,Sugar,374,4950
+ 1998-99,Madhya Pradesh,,Shivpuri,Whole Year ,Sugarcane,Sugar,1188,28540
+ 1998-99,Madhya Pradesh,,Sidhi,Whole Year ,Sugarcane,Sugar,64,1060
+ 1998-99,Madhya Pradesh,,Surguja,Whole Year ,Sugarcane,Sugar,1074,14490
+ 1998-99,Madhya Pradesh,,Tikamgarh,Whole Year ,Sugarcane,Sugar,667,18260
+ 1998-99,Madhya Pradesh,,Ujjain,Whole Year ,Sugarcane,Sugar,538,9310
+ 1998-99,Madhya Pradesh,,Umaria,Whole Year ,Sugarcane,Sugar,2,20
+ 1998-99,Madhya Pradesh,,Vidisha,Whole Year ,Sugarcane,Sugar,317,1670
+ 1998-99,Madhya Pradesh,,Betul,Kharif     ,Sunflower,Oilseeds,1600,300
+ 1998-99,Madhya Pradesh,,Chhindwara,Kharif     ,Sunflower,Oilseeds,500,200
+ 1998-99,Madhya Pradesh,,Damoh,Kharif     ,Sunflower,Oilseeds,100,200
+ 1998-99,Madhya Pradesh,,Durg,Kharif     ,Sunflower,Oilseeds,200,100
+ 1998-99,Madhya Pradesh,,Jabalpur,Kharif     ,Sunflower,Oilseeds,2400,600
+ 1998-99,Madhya Pradesh,,Khandwa,Kharif     ,Sunflower,Oilseeds,100,600
+ 1998-99,Madhya Pradesh,,Mahasamund,Kharif     ,Sunflower,Oilseeds,100,600
+ 1998-99,Madhya Pradesh,,Mandsaur,Kharif     ,Sunflower,Oilseeds,600,200
+ 1998-99,Madhya Pradesh,,Narsinghpur,Kharif     ,Sunflower,Oilseeds,800,500
+ 1998-99,Madhya Pradesh,,Raipur,Kharif     ,Sunflower,Oilseeds,200,100
+ 1998-99,Madhya Pradesh,,Rajgarh,Kharif     ,Sunflower,Oilseeds,100,100
+ 1998-99,Madhya Pradesh,,Rajnandgaon,Kharif     ,Sunflower,Oilseeds,200,100
+ 1998-99,Madhya Pradesh,,Seoni,Kharif     ,Sunflower,Oilseeds,300,100
+ 1998-99,Madhya Pradesh,,Shajapur,Kharif     ,Sunflower,Oilseeds,800,300
+ 1998-99,Madhya Pradesh,,Ujjain,Kharif     ,Sunflower,Oilseeds,100,300
+ 1998-99,Madhya Pradesh,,Balaghat,Rabi       ,Wheat,Cereals,15300,13200
+ 1998-99,Madhya Pradesh,,Barwani,Rabi       ,Wheat,Cereals,30100,63600
+ 1998-99,Madhya Pradesh,,Bastar,Rabi       ,Wheat,Cereals,600,1100
+ 1998-99,Madhya Pradesh,,Betul,Rabi       ,Wheat,Cereals,93800,135200
+ 1998-99,Madhya Pradesh,,Bhind,Rabi       ,Wheat,Cereals,72200,157800
+ 1998-99,Madhya Pradesh,,Bhopal,Rabi       ,Wheat,Cereals,78200,130800
+ 1998-99,Madhya Pradesh,,Bilaspur,Rabi       ,Wheat,Cereals,11100,9200
+ 1998-99,Madhya Pradesh,,Chhatarpur,Rabi       ,Wheat,Cereals,137900,279600
+ 1998-99,Madhya Pradesh,,Chhindwara,Rabi       ,Wheat,Cereals,101800,171200
+ 1998-99,Madhya Pradesh,,Damoh,Rabi       ,Wheat,Cereals,97300,130500
+ 1998-99,Madhya Pradesh,,Datia,Rabi       ,Wheat,Cereals,66300,139400
+ 1998-99,Madhya Pradesh,,Dewas,Rabi       ,Wheat,Cereals,114200,267700
+ 1998-99,Madhya Pradesh,,Dhamtari,Rabi       ,Wheat,Cereals,2300,1700
+ 1998-99,Madhya Pradesh,,Dhar,Rabi       ,Wheat,Cereals,161400,342400
+ 1998-99,Madhya Pradesh,,Dindori,Rabi       ,Wheat,Cereals,47900,36900
+ 1998-99,Madhya Pradesh,,Durg,Rabi       ,Wheat,Cereals,16700,10700
+ 1998-99,Madhya Pradesh,,Guna,Rabi       ,Wheat,Cereals,196800,253800
+ 1998-99,Madhya Pradesh,,Gwalior,Rabi       ,Wheat,Cereals,97200,236500
+ 1998-99,Madhya Pradesh,,Harda,Rabi       ,Wheat,Cereals,76300,160500
+ 1998-99,Madhya Pradesh,,Hoshangabad,Rabi       ,Wheat,Cereals,157700,331900
+ 1998-99,Madhya Pradesh,,Indore,Rabi       ,Wheat,Cereals,121800,344900
+ 1998-99,Madhya Pradesh,,Jabalpur,Rabi       ,Wheat,Cereals,104500,136500
+ 1998-99,Chhattisgarh,,Janjgir-Champa,Rabi       ,Wheat,Cereals,1400,1700
+ 1998-99,Madhya Pradesh,,Jashpur,Rabi       ,Wheat,Cereals,1100,1500
+ 1998-99,Madhya Pradesh,,Jhabua,Rabi       ,Wheat,Cereals,51400,99500
+ 1998-99,Madhya Pradesh,,Kabirdham,Rabi       ,Wheat,Cereals,6000,4000
+ 1998-99,Madhya Pradesh,,Kanker,Rabi       ,Wheat,Cereals,500,600
+ 1998-99,Madhya Pradesh,,Katni,Rabi       ,Wheat,Cereals,81800,104900
+ 1998-99,Madhya Pradesh,,Khandwa,Rabi       ,Wheat,Cereals,73700,137400
+ 1998-99,Madhya Pradesh,,Khargone,Rabi       ,Wheat,Cereals,59300,125000
+ 1998-99,Madhya Pradesh,,Korba,Rabi       ,Wheat,Cereals,500,400
+ 1998-99,Madhya Pradesh,,Korea,Rabi       ,Wheat,Cereals,5100,5500
+ 1998-99,Madhya Pradesh,,Mahasamund,Rabi       ,Wheat,Cereals,1100,1600
+ 1998-99,Madhya Pradesh,,Mandla,Rabi       ,Wheat,Cereals,38900,37100
+ 1998-99,Madhya Pradesh,,Mandsaur,Rabi       ,Wheat,Cereals,63000,159600
+ 1998-99,Madhya Pradesh,,Morena,Rabi       ,Wheat,Cereals,77900,269900
+ 1998-99,Madhya Pradesh,,Narsinghpur,Rabi       ,Wheat,Cereals,81800,143500
+ 1998-99,Madhya Pradesh,,Neemuch,Rabi       ,Wheat,Cereals,33400,84600
+ 1998-99,Madhya Pradesh,,Panna,Rabi       ,Wheat,Cereals,78200,85800
+ 1998-99,Madhya Pradesh,,Raipur,Rabi       ,Wheat,Cereals,8300,8200
+ 1998-99,Madhya Pradesh,,Raisen,Rabi       ,Wheat,Cereals,177100,239300
+ 1998-99,Madhya Pradesh,,Rajgarh,Rabi       ,Wheat,Cereals,800,1200
+ 1998-99,Madhya Pradesh,,Rajnandgaon,Rabi       ,Wheat,Cereals,14400,8500
+ 1998-99,Madhya Pradesh,,Ratlam,Rabi       ,Wheat,Cereals,91000,260100
+ 1998-99,Madhya Pradesh,,Rewa,Rabi       ,Wheat,Cereals,167100,197200
+ 1998-99,Madhya Pradesh,,Sagar,Rabi       ,Wheat,Cereals,226400,280900
+ 1998-99,Madhya Pradesh,,Satna,Rabi       ,Wheat,Cereals,186800,265700
+ 1998-99,Madhya Pradesh,,Sehore,Rabi       ,Wheat,Cereals,148600,287700
+ 1998-99,Madhya Pradesh,,Seoni,Rabi       ,Wheat,Cereals,98200,75600
+ 1998-99,Madhya Pradesh,,Shahdol,Rabi       ,Wheat,Cereals,46300,34600
+ 1998-99,Madhya Pradesh,,Shajapur,Rabi       ,Wheat,Cereals,105300,255800
+ 1998-99,Madhya Pradesh,,Sheopur,Rabi       ,Wheat,Cereals,60400,205800
+ 1998-99,Madhya Pradesh,,Shivpuri,Rabi       ,Wheat,Cereals,130000,229100
+ 1998-99,Madhya Pradesh,,Sidhi,Rabi       ,Wheat,Cereals,83300,76400
+ 1998-99,Madhya Pradesh,,Surguja,Rabi       ,Wheat,Cereals,16600,20900
+ 1998-99,Madhya Pradesh,,Tikamgarh,Rabi       ,Wheat,Cereals,124000,250400
+ 1998-99,Madhya Pradesh,,Ujjain,Rabi       ,Wheat,Cereals,177700,488700
+ 1998-99,Madhya Pradesh,,Umaria,Rabi       ,Wheat,Cereals,29500,24200
+ 1998-99,Madhya Pradesh,,Vidisha,Rabi       ,Wheat,Cereals,229600,351600
+ 1998-99,Maharashtra,,Ahmednagar,Kharif     ,Arhar/Tur,Pulses,18800,9700
+ 1998-99,Maharashtra,,Akola,Kharif     ,Arhar/Tur,Pulses,77300,88300
+ 1998-99,Maharashtra,,Amravati,Kharif     ,Arhar/Tur,Pulses,86500,85900
+ 1998-99,Maharashtra,,Aurangabad,Kharif     ,Arhar/Tur,Pulses,40800,24400
+ 1998-99,Maharashtra,,Beed,Kharif     ,Arhar/Tur,Pulses,46100,28400
+ 1998-99,Maharashtra,,Bhandara,Kharif     ,Arhar/Tur,Pulses,10100,7600
+ 1998-99,Maharashtra,,Buldhana,Kharif     ,Arhar/Tur,Pulses,61600,59200
+ 1998-99,Maharashtra,,Chandrapur,Kharif     ,Arhar/Tur,Pulses,25200,12200
+ 1998-99,Maharashtra,,Dhule,Kharif     ,Arhar/Tur,Pulses,27000,10000
+ 1998-99,Maharashtra,,Gadchiroli,Kharif     ,Arhar/Tur,Pulses,1800,1300
+ 1998-99,Maharashtra,,Jalgaon,Kharif     ,Arhar/Tur,Pulses,24400,13900
+ 1998-99,Maharashtra,,Jalna,Kharif     ,Arhar/Tur,Pulses,46100,26000
+ 1998-99,Maharashtra,,Kolhapur,Kharif     ,Arhar/Tur,Pulses,3500,1300
+ 1998-99,Maharashtra,,Latur,Kharif     ,Arhar/Tur,Pulses,66000,71200
+ 1998-99,Maharashtra,,Nagpur,Kharif     ,Arhar/Tur,Pulses,51100,35000
+ 1998-99,Maharashtra,,Nanded,Kharif     ,Arhar/Tur,Pulses,48100,49900
+ 1998-99,Maharashtra,,Nashik,Kharif     ,Arhar/Tur,Pulses,9300,4300
+ 1998-99,Maharashtra,,Osmanabad,Kharif     ,Arhar/Tur,Pulses,74900,44900
+ 1998-99,Maharashtra,,Parbhani,Kharif     ,Arhar/Tur,Pulses,73300,56200
+ 1998-99,Maharashtra,,Pune,Kharif     ,Arhar/Tur,Pulses,3900,1100
+ 1998-99,Maharashtra,,Raigad,Kharif     ,Arhar/Tur,Pulses,1000,500
+ 1998-99,Maharashtra,,Ratnagiri,Kharif     ,Arhar/Tur,Pulses,500,200
+ 1998-99,Maharashtra,,Sangli,Kharif     ,Arhar/Tur,Pulses,13800,5300
+ 1998-99,Maharashtra,,Satara,Kharif     ,Arhar/Tur,Pulses,7600,2900
+ 1998-99,Maharashtra,,Solapur,Kharif     ,Arhar/Tur,Pulses,27500,8400
+ 1998-99,Maharashtra,,Thane,Kharif     ,Arhar/Tur,Pulses,3100,1400
+ 1998-99,Maharashtra,,Wardha,Kharif     ,Arhar/Tur,Pulses,45800,44800
+ 1998-99,Maharashtra,,Yavatmal,Kharif     ,Arhar/Tur,Pulses,111600,114600
+ 1998-99,Maharashtra,,Ahmednagar,Kharif     ,Bajra,Cereals,302400,243900
+ 1998-99,Maharashtra,,Akola,Kharif     ,Bajra,Cereals,5600,2900
+ 1998-99,Maharashtra,,Amravati,Kharif     ,Bajra,Cereals,1900,1000
+ 1998-99,Maharashtra,,Aurangabad,Kharif     ,Bajra,Cereals,131000,116600
+ 1998-99,Maharashtra,,Beed,Kharif     ,Bajra,Cereals,176800,116600
+ 1998-99,Maharashtra,,Buldhana,Kharif     ,Bajra,Cereals,5500,2900
+ 1998-99,Maharashtra,,Dhule,Kharif     ,Bajra,Cereals,174100,184800
+ 1998-99,Maharashtra,,Jalgaon,Kharif     ,Bajra,Cereals,71800,80500
+ 1998-99,Maharashtra,,Jalna,Kharif     ,Bajra,Cereals,80800,64400
+ 1998-99,Maharashtra,,Kolhapur,Kharif     ,Bajra,Cereals,100,100
+ 1998-99,Maharashtra,,Latur,Kharif     ,Bajra,Cereals,9900,4700
+ 1998-99,Maharashtra,,Nagpur,Kharif     ,Bajra,Cereals,100,100
+ 1998-99,Maharashtra,,Nanded,Kharif     ,Bajra,Cereals,300,200
+ 1998-99,Maharashtra,,Nashik,Kharif     ,Bajra,Cereals,387500,403300
+ 1998-99,Maharashtra,,Osmanabad,Kharif     ,Bajra,Cereals,17600,8600
+ 1998-99,Maharashtra,,Parbhani,Kharif     ,Bajra,Cereals,8200,4800
+ 1998-99,Maharashtra,,Pune,Kharif     ,Bajra,Cereals,150000,110900
+ 1998-99,Maharashtra,,Sangli,Kharif     ,Bajra,Cereals,100600,53400
+ 1998-99,Maharashtra,,Satara,Kharif     ,Bajra,Cereals,89100,69100
+ 1998-99,Maharashtra,,Solapur,Kharif     ,Bajra,Cereals,37400,18900
+ 1998-99,Maharashtra,,Wardha,Kharif     ,Bajra,Cereals,100,100
+ 1998-99,Maharashtra,,Yavatmal,Kharif     ,Bajra,Cereals,8900,4700
+ 1998-99,Maharashtra,,Ahmednagar,Kharif     ,Castor Seed,Oilseeds,400,100
+ 1998-99,Maharashtra,,Akola,Kharif     ,Castor Seed,Oilseeds,100,100
+ 1998-99,Maharashtra,,Amravati,Kharif     ,Castor Seed,Oilseeds,700,200
+ 1998-99,Maharashtra,,Aurangabad,Kharif     ,Castor Seed,Oilseeds,100,200
+ 1998-99,Maharashtra,,Beed,Kharif     ,Castor Seed,Oilseeds,3100,800
+ 1998-99,Maharashtra,,Bhandara,Kharif     ,Castor Seed,Oilseeds,300,100
+ 1998-99,Maharashtra,,Buldhana,Kharif     ,Castor Seed,Oilseeds,700,200
+ 1998-99,Maharashtra,,Dhule,Kharif     ,Castor Seed,Oilseeds,400,100
+ 1998-99,Maharashtra,,Jalgaon,Kharif     ,Castor Seed,Oilseeds,400,200
+ 1998-99,Maharashtra,,Jalna,Kharif     ,Castor Seed,Oilseeds,200,100
+ 1998-99,Maharashtra,,Latur,Kharif     ,Castor Seed,Oilseeds,100,100
+ 1998-99,Maharashtra,,Nagpur,Kharif     ,Castor Seed,Oilseeds,200,100
+ 1998-99,Maharashtra,,Nanded,Kharif     ,Castor Seed,Oilseeds,700,200
+ 1998-99,Maharashtra,,Nashik,Kharif     ,Castor Seed,Oilseeds,300,100
+ 1998-99,Maharashtra,,Osmanabad,Kharif     ,Castor Seed,Oilseeds,500,100
+ 1998-99,Maharashtra,,Parbhani,Kharif     ,Castor Seed,Oilseeds,800,300
+ 1998-99,Maharashtra,,Pune,Kharif     ,Castor Seed,Oilseeds,200,100
+ 1998-99,Maharashtra,,Solapur,Kharif     ,Castor Seed,Oilseeds,200,100
+ 1998-99,Maharashtra,,Wardha,Kharif     ,Castor Seed,Oilseeds,100,100
+ 1998-99,Maharashtra,,Yavatmal,Kharif     ,Castor Seed,Oilseeds,600,100
+ 1998-99,Maharashtra,,Ahmednagar,Kharif     ,Cotton(Lint),Fiber Crops,12100,19900
+ 1998-99,Maharashtra,,Akola,Kharif     ,Cotton(Lint),Fiber Crops,360300,246500
+ 1998-99,Maharashtra,,Amravati,Kharif     ,Cotton(Lint),Fiber Crops,320900,142900
+ 1998-99,Maharashtra,,Aurangabad,Kharif     ,Cotton(Lint),Fiber Crops,152600,148300
+ 1998-99,Maharashtra,,Beed,Kharif     ,Cotton(Lint),Fiber Crops,110300,91400
+ 1998-99,Maharashtra,,Buldhana,Kharif     ,Cotton(Lint),Fiber Crops,265800,202500
+ 1998-99,Maharashtra,,Chandrapur,Kharif     ,Cotton(Lint),Fiber Crops,52700,44300
+ 1998-99,Maharashtra,,Dhule,Kharif     ,Cotton(Lint),Fiber Crops,94600,103300
+ 1998-99,Maharashtra,,Jalgaon,Kharif     ,Cotton(Lint),Fiber Crops,371900,489500
+ 1998-99,Maharashtra,,Jalna,Kharif     ,Cotton(Lint),Fiber Crops,162600,173400
+ 1998-99,Maharashtra,,Kolhapur,Kharif     ,Cotton(Lint),Fiber Crops,100,100
+ 1998-99,Maharashtra,,Latur,Kharif     ,Cotton(Lint),Fiber Crops,31600,25400
+ 1998-99,Maharashtra,,Nagpur,Kharif     ,Cotton(Lint),Fiber Crops,56500,69900
+ 1998-99,Maharashtra,,Nanded,Kharif     ,Cotton(Lint),Fiber Crops,278100,208600
+ 1998-99,Maharashtra,,Nashik,Kharif     ,Cotton(Lint),Fiber Crops,4200,4400
+ 1998-99,Maharashtra,,Osmanabad,Kharif     ,Cotton(Lint),Fiber Crops,4000,3200
+ 1998-99,Maharashtra,,Parbhani,Kharif     ,Cotton(Lint),Fiber Crops,330000,281800
+ 1998-99,Maharashtra,,Pune,Kharif     ,Cotton(Lint),Fiber Crops,300,500
+ 1998-99,Maharashtra,,Sangli,Kharif     ,Cotton(Lint),Fiber Crops,3100,5300
+ 1998-99,Maharashtra,,Satara,Kharif     ,Cotton(Lint),Fiber Crops,4700,8100
+ 1998-99,Maharashtra,,Solapur,Kharif     ,Cotton(Lint),Fiber Crops,4900,6800
+ 1998-99,Maharashtra,,Wardha,Kharif     ,Cotton(Lint),Fiber Crops,132200,100300
+ 1998-99,Maharashtra,,Yavatmal,Kharif     ,Cotton(Lint),Fiber Crops,445600,242500
+ 1998-99,Maharashtra,,Ahmednagar,Rabi       ,Gram,Pulses,59600,40900
+ 1998-99,Maharashtra,,Akola,Rabi       ,Gram,Pulses,56500,38600
+ 1998-99,Maharashtra,,Amravati,Rabi       ,Gram,Pulses,52400,41300
+ 1998-99,Maharashtra,,Aurangabad,Rabi       ,Gram,Pulses,48300,28200
+ 1998-99,Maharashtra,,Beed,Rabi       ,Gram,Pulses,23600,11800
+ 1998-99,Maharashtra,,Bhandara,Rabi       ,Gram,Pulses,9400,4400
+ 1998-99,Maharashtra,,Buldhana,Rabi       ,Gram,Pulses,45500,36700
+ 1998-99,Maharashtra,,Chandrapur,Rabi       ,Gram,Pulses,15600,6500
+ 1998-99,Maharashtra,,Dhule,Rabi       ,Gram,Pulses,31100,23400
+ 1998-99,Maharashtra,,Gadchiroli,Rabi       ,Gram,Pulses,3500,2000
+ 1998-99,Maharashtra,,Jalgaon,Rabi       ,Gram,Pulses,57400,40100
+ 1998-99,Maharashtra,,Jalna,Rabi       ,Gram,Pulses,15900,8300
+ 1998-99,Maharashtra,,Kolhapur,Rabi       ,Gram,Pulses,11300,7800
+ 1998-99,Maharashtra,,Latur,Rabi       ,Gram,Pulses,28900,14800
+ 1998-99,Maharashtra,,Nagpur,Rabi       ,Gram,Pulses,37300,21900
+ 1998-99,Maharashtra,,Nanded,Rabi       ,Gram,Pulses,32400,13900
+ 1998-99,Maharashtra,,Nashik,Rabi       ,Gram,Pulses,60300,39700
+ 1998-99,Maharashtra,,Osmanabad,Rabi       ,Gram,Pulses,50000,27500
+ 1998-99,Maharashtra,,Parbhani,Rabi       ,Gram,Pulses,68000,32700
+ 1998-99,Maharashtra,,Pune,Rabi       ,Gram,Pulses,47900,29900
+ 1998-99,Maharashtra,,Raigad,Rabi       ,Gram,Pulses,2100,1300
+ 1998-99,Maharashtra,,Ratnagiri,Rabi       ,Gram,Pulses,100,100
+ 1998-99,Maharashtra,,Sangli,Rabi       ,Gram,Pulses,30700,25000
+ 1998-99,Maharashtra,,Satara,Rabi       ,Gram,Pulses,23800,15900
+ 1998-99,Maharashtra,,Solapur,Rabi       ,Gram,Pulses,50500,28600
+ 1998-99,Maharashtra,,Thane,Rabi       ,Gram,Pulses,3800,2300
+ 1998-99,Maharashtra,,Wardha,Rabi       ,Gram,Pulses,19500,9200
+ 1998-99,Maharashtra,,Yavatmal,Rabi       ,Gram,Pulses,18800,9100
+ 1998-99,Maharashtra,,Ahmednagar,Kharif     ,Groundnut,Oilseeds,7100,6200
+ 1998-99,Maharashtra,,Ahmednagar,Summer     ,Groundnut,Oilseeds,15000,25700
+ 1998-99,Maharashtra,,Akola,Kharif     ,Groundnut,Oilseeds,1600,1100
+ 1998-99,Maharashtra,,Akola,Summer     ,Groundnut,Oilseeds,2300,2000
+ 1998-99,Maharashtra,,Amravati,Kharif     ,Groundnut,Oilseeds,8500,9100
+ 1998-99,Maharashtra,,Amravati,Summer     ,Groundnut,Oilseeds,600,700
+ 1998-99,Maharashtra,,Aurangabad,Kharif     ,Groundnut,Oilseeds,11400,7100
+ 1998-99,Maharashtra,,Aurangabad,Summer     ,Groundnut,Oilseeds,900,1000
+ 1998-99,Maharashtra,,Beed,Kharif     ,Groundnut,Oilseeds,12400,6900
+ 1998-99,Maharashtra,,Beed,Summer     ,Groundnut,Oilseeds,3100,3300
+ 1998-99,Maharashtra,,Bhandara,Kharif     ,Groundnut,Oilseeds,200,200
+ 1998-99,Maharashtra,,Bhandara,Summer     ,Groundnut,Oilseeds,200,200
+ 1998-99,Maharashtra,,Buldhana,Kharif     ,Groundnut,Oilseeds,7500,5700
+ 1998-99,Maharashtra,,Buldhana,Summer     ,Groundnut,Oilseeds,2700,2700
+ 1998-99,Maharashtra,,Chandrapur,Summer     ,Groundnut,Oilseeds,200,200
+ 1998-99,Maharashtra,,Dhule,Kharif     ,Groundnut,Oilseeds,51000,38200
+ 1998-99,Maharashtra,,Dhule,Summer     ,Groundnut,Oilseeds,20200,23800
+ 1998-99,Maharashtra,,Gadchiroli,Summer     ,Groundnut,Oilseeds,100,100
+ 1998-99,Maharashtra,,Jalgaon,Kharif     ,Groundnut,Oilseeds,8300,7200
+ 1998-99,Maharashtra,,Jalgaon,Summer     ,Groundnut,Oilseeds,12600,16800
+ 1998-99,Maharashtra,,Jalna,Kharif     ,Groundnut,Oilseeds,2300,1200
+ 1998-99,Maharashtra,,Jalna,Summer     ,Groundnut,Oilseeds,1600,1500
+ 1998-99,Maharashtra,,Kolhapur,Kharif     ,Groundnut,Oilseeds,60400,116000
+ 1998-99,Maharashtra,,Kolhapur,Summer     ,Groundnut,Oilseeds,2100,6400
+ 1998-99,Maharashtra,,Latur,Kharif     ,Groundnut,Oilseeds,17200,6800
+ 1998-99,Maharashtra,,Latur,Summer     ,Groundnut,Oilseeds,1400,1500
+ 1998-99,Maharashtra,,Nagpur,Kharif     ,Groundnut,Oilseeds,12600,11100
+ 1998-99,Maharashtra,,Nagpur,Summer     ,Groundnut,Oilseeds,1400,1600
+ 1998-99,Maharashtra,,Nanded,Kharif     ,Groundnut,Oilseeds,800,300
+ 1998-99,Maharashtra,,Nanded,Summer     ,Groundnut,Oilseeds,10400,7900
+ 1998-99,Maharashtra,,Nashik,Kharif     ,Groundnut,Oilseeds,42100,42100
+ 1998-99,Maharashtra,,Nashik,Summer     ,Groundnut,Oilseeds,3600,4400
+ 1998-99,Maharashtra,,Osmanabad,Kharif     ,Groundnut,Oilseeds,10900,4200
+ 1998-99,Maharashtra,,Osmanabad,Summer     ,Groundnut,Oilseeds,3600,4800
+ 1998-99,Maharashtra,,Parbhani,Kharif     ,Groundnut,Oilseeds,600,200
+ 1998-99,Maharashtra,,Parbhani,Summer     ,Groundnut,Oilseeds,11900,15500
+ 1998-99,Maharashtra,,Pune,Kharif     ,Groundnut,Oilseeds,45000,66100
+ 1998-99,Maharashtra,,Pune,Summer     ,Groundnut,Oilseeds,7200,13300
+ 1998-99,Maharashtra,,Raigad,Kharif     ,Groundnut,Oilseeds,100,100
+ 1998-99,Maharashtra,,Raigad,Summer     ,Groundnut,Oilseeds,200,200
+ 1998-99,Maharashtra,,Ratnagiri,Kharif     ,Groundnut,Oilseeds,100,100
+ 1998-99,Maharashtra,,Ratnagiri,Summer     ,Groundnut,Oilseeds,500,500
+ 1998-99,Maharashtra,,Sangli,Kharif     ,Groundnut,Oilseeds,37100,51400
+ 1998-99,Maharashtra,,Sangli,Summer     ,Groundnut,Oilseeds,1000,1100
+ 1998-99,Maharashtra,,Satara,Kharif     ,Groundnut,Oilseeds,55100,81500
+ 1998-99,Maharashtra,,Satara,Summer     ,Groundnut,Oilseeds,4100,6700
+ 1998-99,Maharashtra,,Sindhudurg,Kharif     ,Groundnut,Oilseeds,1300,1100
+ 1998-99,Maharashtra,,Sindhudurg,Summer     ,Groundnut,Oilseeds,3500,5100
+ 1998-99,Maharashtra,,Solapur,Kharif     ,Groundnut,Oilseeds,7400,4800
+ 1998-99,Maharashtra,,Solapur,Summer     ,Groundnut,Oilseeds,17600,39200
+ 1998-99,Maharashtra,,Thane,Kharif     ,Groundnut,Oilseeds,200,200
+ 1998-99,Maharashtra,,Thane,Summer     ,Groundnut,Oilseeds,100,200
+ 1998-99,Maharashtra,,Wardha,Kharif     ,Groundnut,Oilseeds,5200,4400
+ 1998-99,Maharashtra,,Wardha,Summer     ,Groundnut,Oilseeds,1200,1300
+ 1998-99,Maharashtra,,Yavatmal,Kharif     ,Groundnut,Oilseeds,1300,1300
